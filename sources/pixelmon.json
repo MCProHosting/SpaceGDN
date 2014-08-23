@@ -12,6 +12,11 @@
                     "version": "3.1.4",
                     "url": "https://s3.amazonaws.com/SpaceZips/Pixelmon17.zip",
                     "build": 314
+                },
+                {
+                    "version": "3.2.4",
+                    "url": "https://s3.amazonaws.com/SpaceZips/Pixelmon1710.zip",
+                    "build": 324
                 }
             ]
         }
