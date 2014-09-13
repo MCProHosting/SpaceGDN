@@ -22,6 +22,11 @@
                     "version": "3.2.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Pixelmon1710_3.2.6.zip",
                     "build": 326
+                },
+                {
+                    "version": "3.2.8",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Pixelmon1710_3.2.8.zip",
+                    "build": 328
                 }
             ]
         }
