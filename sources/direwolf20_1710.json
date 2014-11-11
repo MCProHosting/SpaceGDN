@@ -1,0 +1,19 @@
+{
+    "name": "direwolf20_1710",
+    "site_url": "http://www.creeperrepo.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "direwolf20_1710",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Direwolf1710_1.0.1.zip",
+                    "build": 101
+                }
+            ]
+        }
+    ]
+}
