@@ -4,7 +4,7 @@
     "description": "",
     "channels": [
         {
-            "name": "direwolf20_1710",
+            "name": "build",
             "interface": "json",
             "mirror": true,
             "releases": [
