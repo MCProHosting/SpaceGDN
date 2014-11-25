@@ -4,9 +4,16 @@
     "description": "",
     "channels": [
         {
-            "name": "build",
-            "interface": "creeperrepo",
-            "full_name": "Direwolf20"
+            "name": "direwolf20",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.23",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Direwolf.1.6.4-1.0.23.zip",
+                    "build": 1023
+                }
+            ]
         }
     ]
 }
