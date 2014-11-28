@@ -10,12 +10,12 @@
             "releases": [
                 {
                     "version": "1.7.10",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot_1.7.10.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot1710.jar",
                     "build": 1710
                 },                
                 {
                     "version": "1.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot_1.8.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot18.jar",
                     "build": 18
                 }
             ]
