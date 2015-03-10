@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1.0.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Direwolf1710_1.0.4.zip",
+                    "build": 104
+                },
+                {
                     "version": "1.0.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Direwolf1710_1.0.3.zip",
                     "build": 103
