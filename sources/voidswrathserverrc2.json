@@ -1,0 +1,14 @@
+{
+    "name": "VoidsWrath RC2",
+    "site_url": "http://voidswrath.com",
+    "description": "The VoidsWrath Mod pack is a mod pack based around exploration and Mythical creatures!",
+    "channels": [
+        {
+            "name": "VoidsWrath RC2",
+            "interface": "direct",
+            "mirror": false,
+            "url" : "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/VoidsWrathServerRC2.zip",
+            "version" : "2.0.0"
+        }
+    ]
+}

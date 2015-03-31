@@ -1,0 +1,14 @@
+{
+    "name": "CrusaderCraft",
+    "site_url": "http://voidswrath.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "CrusaderCraft",
+            "interface": "direct",
+            "mirror": false,
+            "url" : "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrusaderCraft.zip",
+            "version" : "1.0.0"
+        }
+    ]
+}
