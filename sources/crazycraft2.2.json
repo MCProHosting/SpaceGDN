@@ -1,10 +1,10 @@
 {
-    "name": "CrazyCraft 2.2",
+    "name": "crazycraft2.2",
     "site_url": "http://voidswrath.com/newwp/crazy-craft-2-0/",
     "description": "The CrazyCraft Mod pack is a mod pack based around, you guessed it! CRAZINESS!",
     "channels": [
         {
-            "name": "CrazyCraft 2.2",
+            "name": "crazycraft2.2",
             "interface": "direct",
             "mirror": false,
             "url" : "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrazyCraftServer2.2.zip",
