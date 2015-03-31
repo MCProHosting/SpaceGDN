@@ -1,0 +1,14 @@
+{
+    "name": "Dream Craft 2.0",
+    "site_url": "http://voidswrath.com/",
+    "description": "This is a mod pack baed around futuristic mods and the star wars mod being the main mod!",
+    "channels": [
+        {
+            "name": "Dream Craft 2.0",
+            "interface": "direct",
+            "mirror": false,
+            "url" : "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/DreamCraftServerv2.zip",
+            "version" : "2.0.0"
+        }
+    ]
+}

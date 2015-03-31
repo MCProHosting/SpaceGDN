@@ -1,0 +1,14 @@
+{
+    "name": "PokePack2",
+    "site_url": "http://voidswrath.com/",
+    "description": "The PokéPack Mod pack is a mod pack based around, you guessed it! POKEMON!",
+    "channels": [
+        {
+            "name": "PokePack2",
+            "interface": "direct",
+            "mirror": false,
+            "url" : "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/PokePack2.zip",
+            "version" : "2.0.0"
+        }
+    ]
+}

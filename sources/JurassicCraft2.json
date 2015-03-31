@@ -1,0 +1,14 @@
+{
+    "name": "Jurassic Craft 2",
+    "site_url": "http://voidswrath.com/",
+    "description": "The JurassicCraft Mod pack is a mod pack based around Dinosaurs!",
+    "channels": [
+        {
+            "name": "Jurassic Craft 2",
+            "interface": "direct",
+            "mirror": false,
+            "url" : "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/JurassicCraft2.zip",
+            "version" : "2.0.0"
+        }
+    ]
+}
