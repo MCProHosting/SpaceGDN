@@ -29,6 +29,11 @@
                     "checksum": "8d722ad4e1a5fdd89e7f064aba5eb0cd",
                     "downloads": 12,
                     "size": 8.18
+                },
+                {
+                    "version": "BungeeCord",
+                    "url": "http://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar",
+                    "build": 1068,
                 }
             ]
         }
