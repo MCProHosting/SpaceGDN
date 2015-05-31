@@ -31,7 +31,7 @@
                     "size": 8.18
                 },
                 {
-                    "version": "BungeeCord",
+                    "version": "1.8",
                     "url": "http://ci.md-5.net/job/BungeeCord/1068/artifact/bootstrap/target/BungeeCord.jar",
                     "build": 1068
                 }
