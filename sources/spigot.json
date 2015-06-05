@@ -37,6 +37,11 @@
                     "version": "1.8.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot186.jar",
                     "build": 186
+                },
+                {
+                    "version": "1.8.7",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot187jar",
+                    "build": 187
                 }
             ]
         }
