@@ -9,7 +9,7 @@
             "mirror": true,
             "releases": [
                 { 
-                    "version": "1.5.1",
+                    "version": "1.6.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB_Infinity_1.6.2.zip",
                     "build": 162
                 },
