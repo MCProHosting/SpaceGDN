@@ -1,0 +1,19 @@
+{
+    "name": "departed",
+    "site_url": "http://www.creeperrepo.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB_Departed_1.0.0.zip",
+                    "build": 100
+                }
+            ]
+        }
+    ]
+}
