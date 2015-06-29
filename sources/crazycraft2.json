@@ -9,9 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.0.0",
+                    "version": "2.2.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrazyCraftServer2.2_1.0.0.zip",
-                    "build": 100
+                    "build": 220
                 }
             ]
         }
