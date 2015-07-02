@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "4.0.6",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Pixelmon18_4.0.6.zip",
+                    "build": 406
+                },
+                {
                     "version": "3.2.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Pixelmon1710_3.2.6.zip",
                     "build": 326
