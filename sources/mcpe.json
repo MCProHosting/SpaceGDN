@@ -1,6 +1,7 @@
 {
     "name": "mcpe",
     "site_url": "http://www.pocketmine.net/",
+    "description": "MCPE",
     "channels": [
         {
             "name": "build",
