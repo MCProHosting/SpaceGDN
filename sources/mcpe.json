@@ -1,19 +1,12 @@
 {
-    "name": "mcpe",
-    "site_url": "https://www.pocketmine.net/",
-    "description": "",
+    "name": "pocketmine-mp",
+    "site_url": "http://www.pocketmine.net/",
     "channels": [
         {
             "name": "build",
-            "interface": "json",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "1.4.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine-MP_1.4.1.phar.zip",
-                    "build": 141
-                }
-            ]
+            "interface": "jenkins",
+            "url": "http://jenkins.pocketmine.net/job/PocketMine-MP/",
+            "mirror": false
         }
     ]
 }
