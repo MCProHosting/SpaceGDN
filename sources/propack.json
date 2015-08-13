@@ -3,7 +3,16 @@
     "site_url": "http://propack.mcprohosting.com",
     "description": "The aim of this pack is to help bridge the gap between vanilla Minecraft and the modpack world.",
     "channels": [
+       {
+            
+            "name": "propack",
+            "interface": "direct",
+            "mirror": false,
+            "url" : "https://s3.amazonaws.com/MCProHosting-Misc/ProPack/ProPack-2.1-server.zip",
+            "version" : "2.1.0"
+        },
         {
+
             "name": "propack",
             "interface": "direct",
             "mirror": false,
