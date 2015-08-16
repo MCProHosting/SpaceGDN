@@ -10,7 +10,7 @@
             "releases": [
                 {
                     "version": "1.0.23",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Direwolf.1.6.4-1.0.23.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf.1.6.4-1.0.23.zip",
                     "build": 1023
                 }
             ]
