@@ -10,10 +10,9 @@
             "releases": [
                 {
                     "version": "4.0.7",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon18_4.0.6.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon18_4.0.7.zip",
                     "build": 407
                 },
-
                 {
                     "version": "4.0.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon18_4.0.6.zip",
