@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "3.0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrazyCraft_3.0.2.zip",
+                    "build": 302
+                },
+                {
                     "version": "3.0.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrazyCraft3_1.0.0.zip",
                     "build": 301
