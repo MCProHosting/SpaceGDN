@@ -9,7 +9,7 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.6 (Beta 0.12.1)",
+                    "version": "1.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6-Beta.zip",
                     "build": 1300
                 },
