@@ -4,19 +4,46 @@
     "description": "CraftBukkit is The Minecraft Server Mod API Implementation.",
     "channels": [
         {
-            "name": "dev",
-            "interface": "craftbukkit",
-            "mirror": false
-        },
-        {
-            "name": "beta",
-            "interface": "craftbukkit",
-            "mirror": false
-        },
-        {
-            "name": "rb",
-            "interface": "craftbukkit",
-            "mirror": false
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.8",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit18.jar",
+                    "build": 18
+                },
+                {
+                    "version": "1.8.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit183.jar",
+                    "build": 183
+                },
+                {
+                    "version": "1.8.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit184.jar",
+                    "build": 184
+                },
+                {
+                    "version": "1.8.5",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit185.jar",
+                    "build": 185
+                },
+                {
+                    "version": "1.8.6",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit186.jar",
+                    "build": 186
+                },
+                {
+                    "version": "1.8.7",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit187.jar",
+                    "build": 187
+                },
+                {
+                    "version": "1.8.8",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit188.jar",
+                    "build": 188
+                }
+            ]
         }
     ]
 }
