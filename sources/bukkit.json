@@ -11,37 +11,37 @@
                 {
                     "version": "1.8",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit18.jar",
-                    "build": 1.8
+                    "build": 1800
                 },
                 {
                     "version": "1.8.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit183.jar",
-                    "build": 1.83
+                    "build": 1803
                 },
                 {
                     "version": "1.8.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit184.jar",
-                    "build": 1.84
+                    "build": 1804
                 },
                 {
                     "version": "1.8.5",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit185.jar",
-                    "build": 1.85
+                    "build": 1805
                 },
                 {
                     "version": "1.8.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit186.jar",
-                    "build": 1.86
+                    "build": 1806
                 },
                 {
                     "version": "1.8.7",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit187.jar",
-                    "build": 1.87
+                    "build": 1807
                 },
                 {
                     "version": "1.8.8",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit188.jar",
-                    "build": 1.88
+                    "build": 1808
                 }
             ]
         }
