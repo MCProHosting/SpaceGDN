@@ -1,0 +1,19 @@
+{
+    "name": "mcproghosting",
+    "site_url": "http://mcproghosting.com",
+    "description": "Halloween",
+    "channels": [
+        {
+            "name": "mcproghosting",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/MCProGhosting.zip",
+                    "build": 100
+                }
+            ]
+        }
+    ]
+}
