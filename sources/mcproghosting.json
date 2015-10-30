@@ -12,6 +12,11 @@
                     "version": "1.0.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/MCProGhosting.zip",
                     "build": 100
+                },
+                {
+                    "version": "1.0.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/MCProGhosting_1.0.1.zip",
+                    "build": 101
                 }
             ]
         }
