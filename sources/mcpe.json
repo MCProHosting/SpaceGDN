@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1.6.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_48-Beta.zip",
+                    "build": 1301
+                },
+                {
                     "version": "1.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6-Beta.zip",
                     "build": 1300
