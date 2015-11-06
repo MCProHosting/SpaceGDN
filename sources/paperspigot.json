@@ -1,0 +1,19 @@
+{
+    "name": "paperspigot",
+    "site_url": "https://ci.destroystokyo.com/",
+    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.8.8",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot188.jar",
+                    "build": 1880
+                }
+            ]
+        }
+    ]
+}
