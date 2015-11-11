@@ -9,9 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.8.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf1710_1.8.0.zip",
-                    "build": 180
+                    "version": "1.7.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf1710_1.7.0.zip",
+                    "build": 170
                 },
                 {
                     "version": "1.6.1",
