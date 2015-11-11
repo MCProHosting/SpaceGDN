@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                  { 
+                    "version": "2.1.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTB_Infinity_2.1.2.zip",
+                    "build": 2012
+                },
+                 { 
                     "version": "2.0.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTB_Infinity_2.0.2.zip",
                     "build": 2002
