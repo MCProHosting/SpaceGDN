@@ -1,0 +1,19 @@
+{
+    "name": "snowball",
+    "site_url": "http://mcproghosting.com",
+    "description": "Christmas",
+    "channels": [
+        {
+            "name": "snowball",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer.zip",
+                    "build": 100
+                }
+            ]
+        }
+    ]
+}
