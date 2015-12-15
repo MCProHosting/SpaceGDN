@@ -28,6 +28,11 @@
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer_Final3.zip",
                     "build": 103
                 }
+                 {
+                    "version": "1.0.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer_Final4.zip",
+                    "build": 104
+                }
             ]
         }
     ]
