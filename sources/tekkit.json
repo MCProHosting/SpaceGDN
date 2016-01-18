@@ -4,11 +4,16 @@
     "description": "Tekkit has launched into a new era, and with it new frontiers to explore! Dimensions, pockets and planets, it’s all there for you and your friends to exploit and conquer.",
     "channels": [
         {
-            "name": "tekkit",
-            "interface": "direct",
-            "mirror": false,
-            "url" : "http://mirror.technicpack.net/Technic/servers/tekkitmain/Tekkit_Server_v1.2.9e.zip",
-            "version" : "1.2.9e"
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.2.9g",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/Tekkit_Server_v1.2.9g.zip",
+                    "build": 129
+                }
+            ]
         }
     ]
 }
