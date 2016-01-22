@@ -8,7 +8,12 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
+                {
+                    "version": "1.0.5",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/JurassicCraft2_1.0.5.zip",
+                    "build": 105
+                },
+                {
                     "version": "1.0.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/JurassicCraft2_1.0.4.zip",
                     "build": 104
