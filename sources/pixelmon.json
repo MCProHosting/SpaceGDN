@@ -14,69 +14,9 @@
                     "build": 410
                 },
                 {
-                    "version": "4.0.7",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon18_4.0.7.zip",
-                    "build": 407
-                },
-                {
-                    "version": "4.0.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon18_4.0.6.zip",
-                    "build": 406
-                },
-                {
                     "version": "3.5.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.5.1.zip",
                     "build": 351
-                },
-                {
-                    "version": "3.2.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.2.6.zip",
-                    "build": 326
-                },
-                {
-                    "version": "3.2.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.2.8.zip",
-                    "build": 328
-                },
-                {
-                    "version": "3.2.9",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.2.9.zip",
-                    "build": 329
-                },
-                {
-                    "version": "3.3.3",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.3.3.zip",
-                    "build": 333
-                },
-                {
-                    "version": "3.3.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.3.4.zip",
-                    "build": 334
-                },
-                {
-                    "version": "3.3.5",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.3.5.zip",
-                    "build": 335
-                },
-                {
-                    "version": "3.3.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.3.6.zip",
-                    "build": 336
-                },
-                {
-                    "version": "3.3.7",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.3.7.zip",
-                    "build": 337
-                },
-                {
-                    "version": "3.3.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.3.8.zip",
-                    "build": 338
-                },
-                {
-                    "version": "3.4.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon1710_3.4.0.zip",
-                    "build": 340
                 }
             ]
         }
