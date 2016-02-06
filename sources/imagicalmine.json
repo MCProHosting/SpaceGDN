@@ -1,0 +1,15 @@
+{
+    "name": "ImagicalMine",
+    "site_url": "https://www.pocketmine.net/",
+    "description": "and/or https://github.com/ImagicalMine/ImagicalMine support",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+
+            ]
+        }
+    ]
+}

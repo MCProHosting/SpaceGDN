@@ -1,0 +1,19 @@
+{
+    "name": "PocketMine",
+    "site_url": "https://www.pocketmine.net/",
+    "description": "and/or https://github.com/ImagicalMine/ImagicalMine support",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.6.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_56-Beta.zip",
+                    "build": 1306
+                }
+            ]
+        }
+    ]
+}
