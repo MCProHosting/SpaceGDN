@@ -1,14 +1,18 @@
 {
     "name": "ImagicalMine",
-    "site_url": "https://www.pocketmine.net/",
-    "description": "and/or https://github.com/ImagicalMine/ImagicalMine support",
+    "site_url": "http://forums.imagicalmine.me/",
+    "description": "",
     "channels": [
         {
             "name": "build",
             "interface": "json",
             "mirror": true,
             "releases": [
-
+                {
+                    "version": "0.13.x",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/ImagicalMine/0.13/ImagicalMine_0.13.x_649.zip",
+                    "build": 649
+                }
             ]
         }
     ]
