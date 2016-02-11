@@ -15,25 +15,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.6.4",
-                    "url": "http://ci.md-5.net/job/BungeeCord/699/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 699,
-                    "checksum": "8d722ad4e1a5fdd89e7f064aba5eb0cd",
-                    "downloads": 12,
-                    "size": 8.26
-                },
-                {
-                    "version": "1.6.2",
-                    "url": "http://ci.md-5.net/job/BungeeCord/666/artifact/proxy/target/BungeeCord.jar",
-                    "build": 666,
-                    "checksum": "8d722ad4e1a5fdd89e7f064aba5eb0cd",
-                    "downloads": 12,
-                    "size": 8.18
-                },
-                {
                     "version": "1.8",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1093/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1093
+                    "url": "http://ci.md-5.net/job/BungeeCord/1116/artifact/bootstrap/target/BungeeCord.jar",
+                    "build": 1116
                 }
             ]
         }
