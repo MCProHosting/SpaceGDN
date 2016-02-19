@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "0.14.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/ImagicalMine/0.14/ImagicalMine_0.14.0_671.zip",
+                    "build": 671
+                },
+                {
                     "version": "0.13.x",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/ImagicalMine/0.13/ImagicalMine_0.13.x_658.zip",
                     "build": 658
