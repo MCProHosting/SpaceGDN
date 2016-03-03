@@ -5,14 +5,10 @@
     "channels": [
         {
             "name": "build",
-            "interface": "json",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "1.8.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot188.jar",
-                    "build": 1881
-                }
+            "interface": "jenkins",
+            "url": "https://ci.destroystokyo.com/job/PaperSpigot/",
+            "mirror": false
+        }
             ]
         }
     ]
