@@ -1,84 +1,13 @@
 {
     "name": "mcpe",
-    "site_url": "https://www.pocketmine.net/",
-    "description": "and/or https://github.com/ImagicalMine/ImagicalMine support",
+    "site_url": "PocketMine or ImagicalMine",
+    "description": "High performance MCPE Servers",
     "channels": [
         {
             "name": "build",
-            "interface": "json",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_62-Beta.zip",
-                    "build": 1312
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_61-Beta.zip",
-                    "build": 1311
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_60-Beta.zip",
-                    "build": 1310
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_59-Beta.zip",
-                    "build": 1309
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_58-Beta.zip",
-                    "build": 1308
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_57-Beta.zip",
-                    "build": 1307
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_56-Beta.zip",
-                    "build": 1306
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_55-Beta.zip",
-                    "build": 1305
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_52-Beta.zip",
-                    "build": 1304
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_51-Beta.zip",
-                    "build": 1303
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_50-Beta.zip",
-                    "build": 1302
-                },
-                {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_48-Beta.zip",
-                    "build": 1301
-                },
-                {
-                    "version": "1.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6-Beta.zip",
-                    "build": 1300
-                },
-                {
-                    "version": "1.5",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine-MP_1.5.phar.zip",
-                    "build": 1257
-                }
-            ]
+            "interface": "jenkins",
+            "url": "http://jenkins.imagicalmine.net:8080/job/ImagicalMine/",
+            "mirror": false
         }
     ]
 }
