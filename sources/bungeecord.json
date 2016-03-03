@@ -8,23 +8,6 @@
             "interface": "jenkins",
             "url": "http://ci.md-5.net/job/BungeeCord/",
             "mirror": false
-        },
-        {
-            "name": "release",
-            "interface": "json",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "1.8",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1119/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1119
-                },
-                {
-                    "version": "1.9",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1120/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1120
-                }
-            ]
         }
     ]
 }
