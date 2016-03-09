@@ -6,7 +6,7 @@
         {
             "name": "build",
             "interface": "jenkins",
-            "url": "http://jenkins.imagicalmine.net:8080/job/ImagicalMine/",
+            "url": "http://jenkins.imagicalmine.net/job/ImagicalMine/",
             "mirror": false
         }
     ]
