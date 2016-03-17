@@ -5,9 +5,15 @@
     "channels": [
         {
             "name": "build",
-            "interface": "jenkins",
-            "url": "http://ci.md-5.net/job/BungeeCord/",
-            "mirror": false
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.9",
+                    "url": "http://ci.md-5.net/job/BungeeCord/1135/artifact/bootstrap/target/BungeeCord.jar",
+                    "build": 1135
+                }
+            ]
         }
     ]
 }
