@@ -1,0 +1,19 @@
+{
+    "name": "easter2016",
+    "site_url": "http://mcprohosting.com",
+    "description": "Easter 2016",
+    "channels": [
+        {
+            "name": "easter2016",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "http://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/EasterMap1.0.zip",
+                    "build": 100
+                }
+            ]
+        }
+    ]
+}
