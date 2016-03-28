@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "4.2.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon189_4.2.3.zip",
+                    "build": 423
+                },
+                {
                     "version": "4.2.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon189_4.2.0.zip",
                     "build": 420
