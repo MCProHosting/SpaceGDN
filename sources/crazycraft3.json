@@ -10,8 +10,13 @@
             "releases": [
                 {
                     "version": "3.0.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrazyCraft_3.0.2.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrazyCraft_3.0.1.zip",
                     "build": 302
+                },
+                {
+                    "version": "3.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrazyCraft_3.0.2.zip",
+                    "build": 300
                 },
                 {
                     "version": "3.0.1",
