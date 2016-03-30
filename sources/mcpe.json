@@ -5,9 +5,15 @@
     "channels": [
         {
             "name": "build",
-            "interface": "jenkins",
-            "url": "http://jenkins.imagicalmine.net/job/ImagicalMine/",
-            "mirror": false
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "0.14",
+                    "url": "http://imagicalmine.github.io/ImagicalMine/service-download/ImagicalMine.phar",
+                    "build": 1400
+                }
+            ]
         }
     ]
 }
