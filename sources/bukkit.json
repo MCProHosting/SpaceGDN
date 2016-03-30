@@ -47,6 +47,11 @@
                     "version": "1.9",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit19.jar",
                     "build": 19000
+                },
+                {
+                    "version": "1.9.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit192.jar",
+                    "build": 19200
                 }
             ]
         }
