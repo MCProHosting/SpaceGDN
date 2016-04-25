@@ -9,9 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.6.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PocketMine/PocketMine-MP_1.6_56-Beta.zip",
-                    "build": 1306
+                    "version": "0.14",
+                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-18_e11b7631_API-2.0.0.phar",
+                    "build": 1600
                 }
             ]
         }
