@@ -12,6 +12,11 @@
                     "version": "0.14",
                     "url": "http://imagicalmine.github.io/ImagicalMine/service-download/ImagicalMine.phar",
                     "build": 119492540
+                },
+                {
+                    "version": "0.14.1",
+                    "url": "http://imagicalmine.github.io/ImagicalMine/service-download/ImagicalMine.phar",
+                    "build": 125439704
                 }
             ]
         }
