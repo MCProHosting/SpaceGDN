@@ -10,8 +10,8 @@
             "releases": [
                 {
                     "version": "1.9.2",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1141/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1141
+                    "url": "http://ci.md-5.net/job/BungeeCord/1150/artifact/bootstrap/target/BungeeCord.jar",
+                    "build": 1150
                 }
             ]
         }
