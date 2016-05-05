@@ -10,8 +10,8 @@
             "releases": [
                 {
                     "version": "1.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrusaderCraft_1.0.1.zip",
-                    "build": 110
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrusaderCraft_1.0.2.zip",
+                    "build": 120
                 }
             ]
         }
