@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+                  { 
+                    "version": "2.5.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTB_Infinity_2.5.0.zip",
+                    "build": 2050
+                },
                 { 
                     "version": "2.3.5",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTB_Infinity_2.3.5.zip",
