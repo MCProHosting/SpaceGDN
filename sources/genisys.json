@@ -1,0 +1,13 @@
+{
+    "name": "genisys",
+    "site_url": "https://itxtech.org/",
+    "description": "High performance MCPE Servers",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "jenkins",
+            "url": "https://jenkins.mcper.cn/job/Genisys-master/",
+            "mirror": false
+        }
+    ]
+}
