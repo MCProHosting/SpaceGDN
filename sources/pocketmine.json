@@ -17,6 +17,11 @@
                     "version": "0.14.2",
                     "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-24_ac482621_API-2.0.0.phar",
                     "build": 1624
+                },
+                {
+                    "version": "0.14.3",
+                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-25_e2d079a7_API-2.0.0.phar",
+                    "build": 1625
                 }
             ]
         }
