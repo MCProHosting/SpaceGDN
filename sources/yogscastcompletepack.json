@@ -1,0 +1,19 @@
+{
+    "name": "yogscastcomplete",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.9.3.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/YogscastCompletePack_2934RRYOGS.zip",
+                    "build": 2934
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "thecrackpack",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.3.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TheCrackPack_2030TCP.zip",
+                    "build": 2030
+                }
+            ]
+        }
+    ]
+}

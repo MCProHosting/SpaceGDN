@@ -1,0 +1,19 @@
+{
+    "name": "thegoldencobblestone",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.6",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TheGoldenCobblestone_106.zip",
+                    "build": 106
+                }
+            ]
+        }
+    ]
+}

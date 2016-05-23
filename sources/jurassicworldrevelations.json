@@ -1,0 +1,19 @@
+{
+    "name": "jurassicworldrevelations",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "3.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_30FINAL.zip",
+                    "build": 30
+                }
+            ]
+        }
+    ]
+}

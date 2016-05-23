@@ -1,0 +1,19 @@
+{
+    "name": "revengeofthecteam",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "0.5",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/RevengeoftheCTeam_05.zip",
+                    "build": 05
+                }
+            ]
+        }
+    ]
+}
