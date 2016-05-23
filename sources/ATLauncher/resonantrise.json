@@ -1,0 +1,19 @@
+{
+    "name": "resonantrise",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "3.3.01",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_3301.zip",
+                    "build": 3301
+                }
+            ]
+        }
+    ]
+}

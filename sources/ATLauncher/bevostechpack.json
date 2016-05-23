@@ -1,0 +1,19 @@
+{
+    "name": "bevostechpack",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "BetaQ",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornBetaQ.zip",
+                    "build": 220
+                }
+            ]
+        }
+    ]
+}

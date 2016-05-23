@@ -1,0 +1,19 @@
+{
+    "name": "technodefirmacraft",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.1.6.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2164.zip",
+                    "build": 2164
+                }
+            ]
+        }
+    ]
+}

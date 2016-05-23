@@ -1,0 +1,19 @@
+{
+    "name": "dnstechpack",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "7.8.52",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_7852.zip",
+                    "build": 7852
+                }
+            ]
+        }
+    ]
+}

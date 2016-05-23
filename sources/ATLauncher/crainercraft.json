@@ -1,0 +1,19 @@
+{
+    "name": "crainercraft",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/CrainerCraft_202.zip",
+                    "build": 202
+                }
+            ]
+        }
+    ]
+}
