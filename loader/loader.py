@@ -9,12 +9,16 @@ def loadSources():
 
 	import glob, json
 
-	files = glob.glob(_path + '/../sources/*.json')
+	files = glob.glob(_path + '/../sources/**/*.json')
 	output = []
 
 	for f in files:
 		with open(f) as handle:
-			output.append(json.load(handle))
+			try:
+				output.append(json.load(handle))
+			except:
+				print("Error in JSON file %s" % f)
+				raise
 
 	return output
 
