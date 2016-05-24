@@ -6,7 +6,7 @@ from modifier import Modifier
 import urllib
 import hashlib
 import requests
-import os.path
+import os
 import imp
 
 class Yggdrasil():
@@ -145,12 +145,21 @@ class Yggdrasil():
 		URLfilename, URLfile_ext = os.path.splitext(os.path.basename(URLdisassembled.path))
 		local_filename = 'gdn/static/cache/'+urllib.unquote(URLfilename).decode('utf8')+'Build'+str(data['build'])+URLfile_ext
 
+		if os.path.isfile(local_filename):
+			print 'Already have ' + data['url']
+			return local_filename
+
+		local_filename_tmp = local_filename + '.tmp'
+
 		# NOTE the stream=True parameter
 		print 'Downloading ' + data['url']
 		r = requests.get(data['url'], stream=True)
-		with open(local_filename, 'wb') as f:
+		with open(local_filename_tmp, 'wb') as f:
 			for chunk in r.iter_content(chunk_size=1024): 
 				if chunk: # filter out keep-alive new chunks
 					f.write(chunk)
 					f.flush()
+
+		os.rename(local_filename_tmp, local_filename)
+
 		return local_filename
