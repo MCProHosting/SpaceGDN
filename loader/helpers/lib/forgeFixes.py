@@ -11,7 +11,7 @@ def patchForge(path):
 
     if not os.path.exists(patchfiles):
         print 'Downloading forgepatch'
-        r = requests.get('http://s3.amazonaws.com/SpaceZips/forgepatch.zip', stream=True)
+        r = requests.get('http://s3.amazonaws.com/MCProHosting-Misc/Misc_Files/forgepatch.zip', stream=True)
 
         handle, temp_file_path = tempfile.mkstemp()
 
