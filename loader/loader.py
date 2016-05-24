@@ -11,8 +11,8 @@ def loadSources():
 
 	output = []
 
-	for root, dirnames, filenames in os.walk(_path + '/../sources/')
-		for f in fnmatch.filter(filenames, '*.json')
+	for root, dirnames, filenames in os.walk(_path + '/../sources/'):
+		for f in fnmatch.filter(filenames, '*.json'):
 			with open(os.path.join(root, f)) as handle:
 				try:
 					output.append(json.load(handle))
