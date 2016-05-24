@@ -7,18 +7,18 @@ _path = os.path.dirname(os.path.realpath(__file__))
 
 def loadSources():
 
-	import glob, json
+	import fnmatch, json
 
-	files = glob.glob(_path + '/../sources/**/*.json', recursive=True)
 	output = []
 
-	for f in files:
-		with open(f) as handle:
-			try:
-				output.append(json.load(handle))
-			except:
-				print("Error in JSON file %s" % f)
-				raise
+	for root, dirnames, filenames in os.walk(_path + '/../sources/')
+		for f in fnmatch.filter(filenames, '*.json')
+			with open(os.path.join(root, f)) as handle:
+				try:
+					output.append(json.load(handle))
+				except:
+					print("Error in JSON file %s" % f)
+					raise
 
 	return output
 
