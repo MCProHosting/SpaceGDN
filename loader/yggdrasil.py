@@ -164,9 +164,7 @@ class Yggdrasil():
 				if modtime_local > modtime_remote:
 					print 'Already have and newer ' + data['url']
 					return local_filename
-			elif mode == 'force':
-				# Always download
-			else:
+			elif mode != 'force':
 				raise ValueError('Unknown mode')
 
 		local_filename_tmp = local_filename + '.tmp'
