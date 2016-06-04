@@ -3,6 +3,7 @@ from gdn.models import Jar, Channel, Version, Build
 from urlparse import urlparse
 from datetime import datetime
 from modifier import Modifier
+import email.utils as eut
 import urllib
 import hashlib
 import requests
@@ -158,7 +159,7 @@ class Yggdrasil():
 				return local_filename
 			elif mode == 'last-modified':
 				r = requests.head(data['url'])
-				modtime_remote = datetime.strptime(r.headers['Last-Modified'], '%a, %d %b %Y %H:%M:%S GMT')
+				modtime_remote = datetime(*eut.parsedate(r.headers['Last-Modified'])[:6])
 				modtime_local = datetime.fromtimestamp(os.path.getmtime(local_filename))
 				if modtime_local > modtime_remote:
 					print 'Already have and newer ' + data['url']
