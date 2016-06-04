@@ -14,6 +14,7 @@ class Yggdrasil():
 	channels = {}
 	versions = {}
 	builds = {}
+	channelModes = {}
 
 	def md5sumRemote(self, file_):
 		return hashlib.md5(open(file_).read()).hexdigest()
@@ -88,6 +89,12 @@ class Yggdrasil():
 		if not jar in self.jars:
 			raise Exception('Tried to add a channel %s in a nonexistant jar %s.' % (data['name'], jar))
 
+
+		if 'mode' in data and data['mode']:
+			self.channelModes[channel.id] = data['mode'].lower()
+		else:
+			self.channelModes[channel.id] = 'default'
+
 		data['jar_id'] = jar
 		channel = self.getOrMake(model = Channel, data = data, where = {'name': data['name'], 'jar_id': jar})
 		self.channels[channel.id] = channel
@@ -109,7 +116,7 @@ class Yggdrasil():
 		return version.id
 
 	def addBuild(self, data, channel, jarname):
-		fileName = self.download_file(data)
+		fileName = self.download_file(data, self.channelModes[channel])
 		modifier = Modifier(jarname)
 		modifier.modify(fileName, data)
 
@@ -140,14 +147,26 @@ class Yggdrasil():
 	def commit(self):
 		db.session.commit()
 
-	def download_file(self, data):
+	def download_file(self, data, mode):
 		URLdisassembled = urlparse(data['url'])
 		URLfilename, URLfile_ext = os.path.splitext(os.path.basename(URLdisassembled.path))
 		local_filename = 'gdn/static/cache/'+urllib.unquote(URLfilename).decode('utf8')+'Build'+str(data['build'])+URLfile_ext
 
 		if os.path.isfile(local_filename):
-			print 'Already have ' + data['url']
-			return local_filename
+			if mode == 'default':
+				print 'Already have ' + data['url']
+				return local_filename
+			elif mode == 'last-modified':
+				r = requests.head(data['url'])
+				modtime_remote = datetime.strptime(r.headers['Last-Modified'], '%a, %d %b %Y %H:%M:%S GMT')
+				modtime_local = datetime.fromtimestamp(os.path.getmtime(local_filename))
+				if modtime_local > modtime_remote:
+					print 'Already have and newer ' + data['url']
+					return local_filename
+			elif mode == 'force':
+				# Always download
+			else:
+				raise ValueError('Unknown mode')
 
 		local_filename_tmp = local_filename + '.tmp'
 
