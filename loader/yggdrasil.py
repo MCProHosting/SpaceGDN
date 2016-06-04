@@ -90,15 +90,14 @@ class Yggdrasil():
 		if not jar in self.jars:
 			raise Exception('Tried to add a channel %s in a nonexistant jar %s.' % (data['name'], jar))
 
+		data['jar_id'] = jar
+		channel = self.getOrMake(model = Channel, data = data, where = {'name': data['name'], 'jar_id': jar})
+		self.channels[channel.id] = channel
 
 		if 'mode' in data and data['mode']:
 			self.channelModes[channel.id] = data['mode'].lower()
 		else:
 			self.channelModes[channel.id] = 'default'
-
-		data['jar_id'] = jar
-		channel = self.getOrMake(model = Channel, data = data, where = {'name': data['name'], 'jar_id': jar})
-		self.channels[channel.id] = channel
 
 		return channel.id
 
