@@ -2,7 +2,7 @@ import urllib2, json, datetime, re
 
 class loader_mojang:
 
-	url = 'http://s3.amazonaws.com/Minecraft.Download/versions/versions.json'
+	url = 'https://launchermeta.mojang.com/mc/game/version_manifest.json'
 	download_url_base = 'https://s3.amazonaws.com/Minecraft.Download/versions/{0}/minecraft_server.{0}.jar'
 
 	def getJSON(self):
