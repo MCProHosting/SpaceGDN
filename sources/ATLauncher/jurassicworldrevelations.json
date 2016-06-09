@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "3.3.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_33fix.zip",
+                    "build": 34
+                },
+                {
                     "version": "3.2.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_32_fixed.zip",
                     "build": 33
