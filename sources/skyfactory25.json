@@ -10,8 +10,8 @@
             "releases": [
                 {
                     "version": "2.5.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory2.5.2.zip",
-                    "build": 252
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory2.5.2.fix.zip",
+                    "build": 253
                 },
                 {
                     "version": "2.5.0",
