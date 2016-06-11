@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "2.1.8.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2180.zip",
+                    "build": 2180
+                },
+                {
                     "version": "2.1.7.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2170.zip",
                     "build": 2170
