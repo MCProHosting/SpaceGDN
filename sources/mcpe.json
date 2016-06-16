@@ -33,6 +33,11 @@
                     "version": "0.14.3",
                     "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-26_80d6f8df_API-2.0.0.phar",
                     "build": 162600000
+                },
+                {
+                    "version": "0.15.0",
+                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-27_ef8227a0_API-2.0.0.phar",
+                    "build": 162700000
                 }
             ]
         }
