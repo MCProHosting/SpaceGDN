@@ -1,0 +1,19 @@
+{
+    "name": "forge1710",
+    "site_url": "http://files.minecraftforge.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1558",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.7.10-10.13.4.1558.zip",
+                    "build": 1558
+                }
+            ]
+        }
+    ]
+}

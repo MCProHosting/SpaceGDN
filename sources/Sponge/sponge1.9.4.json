@@ -1,0 +1,19 @@
+{
+    "name": "sponge194",
+    "site_url": "https://www.spongepowered.org/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1473",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.9.4-1965-5.0.0-BETA-1473.zip",
+                    "build": 1473
+                }
+            ]
+        }
+    ]
+}

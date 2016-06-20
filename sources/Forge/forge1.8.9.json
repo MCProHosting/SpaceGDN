@@ -1,0 +1,19 @@
+{
+    "name": "forge189",
+    "site_url": "http://files.minecraftforge.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1722",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.8.9-11.15.1.1722.zip",
+                    "build": 1722
+                }
+            ]
+        }
+    ]
+}
