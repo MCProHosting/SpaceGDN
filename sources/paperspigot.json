@@ -28,6 +28,16 @@
                     "version": "1.9.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot194.jar",
                     "build": 1940
+                },
+                {
+                    "version": "1.10",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot110.jar",
+                    "build": 1100
+                },
+                {
+                    "version": "1.10.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot1102.jar",
+                    "build": 1102
                 }
             ]
         }
