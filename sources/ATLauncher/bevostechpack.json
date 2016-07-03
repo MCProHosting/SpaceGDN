@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+            	{
+                    "version": "BetaV",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornBetav.zip",
+                    "build": 224
+                },
                 {
                     "version": "BetaT",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornBetat.zip",
