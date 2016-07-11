@@ -13,6 +13,11 @@
                     "version": "Core Plugins 1.10",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Core/Core.Build1.zip",
                     "build": 1
+                },
+                {
+                    "version": "Core Plugins 1.10.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Core/Core.Build2.zip",
+                    "build": 2
                 }
             ]
         }
