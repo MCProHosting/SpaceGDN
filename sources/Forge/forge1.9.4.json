@@ -9,9 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1887",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.9-12.16.1.1887.zip",
-                    "build": 1887
+                    "version": "1976",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.9.4-12.17.0.1976-universal.zip",
+                    "build": 1976
                 }
             ]
         }
