@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+              {
+                  "version": "7.8.101",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_78101.zip",
+                  "build": 78101
+              },
                 {
                     "version": "7.8.90",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_7890.zip",

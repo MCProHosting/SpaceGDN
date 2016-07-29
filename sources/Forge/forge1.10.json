@@ -1,0 +1,19 @@
+{
+    "name": "forge110",
+    "site_url": "http://files.minecraftforge.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2011",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.10.2-12.18.1.2011.zip",
+                    "build": 2011
+                }
+            ]
+        }
+    ]
+}

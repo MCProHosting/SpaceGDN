@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+              {
+                  "version": "3.1.1",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_311.zip",
+                  "build": 3110
+              },
                 {
                     "version": "2.7.5.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution2_2750.zip",

@@ -1,0 +1,19 @@
+{
+    "name": "unabridged",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "12",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Unabridged_1710Release12.zip",
+                    "build": 12
+                }
+            ]
+        }
+    ]
+}

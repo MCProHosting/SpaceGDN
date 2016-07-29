@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+              {
+                  "version": "1.3.1.1",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BeyondRealityDivergence_1311Beta.zip",
+                  "build": 1311
+              },
                 {
                     "version": "1.3.0.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BeyondRealityDivergence_1300Beta.zip",

@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+              {
+                  "version": "1.9.1",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JourneytotheCore_191.zip",
+                  "build": 191
+              },
                 {
                     "version": "1.9.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JourneytotheCore_19.zip",
