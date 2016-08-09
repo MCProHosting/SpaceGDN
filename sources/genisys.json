@@ -6,7 +6,7 @@
         {
             "name": "build",
             "interface": "jenkins",
-            "url": "https://jenkins.mcper.cn/job/Genisys-master/",
+            "url": "https://ci.itxtech.org/job/Genisys/",
             "mirror": false
         }
     ]
