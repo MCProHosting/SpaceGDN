@@ -8,7 +8,12 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-                { 
+              {
+                  "version": "1.2.0",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTB_IES_1.2.0.zip",
+                  "build": 120
+              },
+                {
                     "version": "1.1.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTB_IES_1.1.0.zip",
                     "build": 110
