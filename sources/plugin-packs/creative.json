@@ -1,0 +1,20 @@
+{
+    "name": "creative-plugin-pack",
+    "site_url": "https://mcprohosting.com",
+    "description": "MCProHosting Plugin Packs",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "last-modified",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "Creative Plugin 1.10.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Creative/Creative.Build1.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}
