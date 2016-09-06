@@ -10,8 +10,8 @@
             "releases": [
                 {
                     "version": "2.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_200Beta5.zip",
-                    "build": 200
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_200Beta51.zip",
+                    "build": 201
                 }
             ]
         }
