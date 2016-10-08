@@ -23,6 +23,11 @@
                     "version": "0.15.9",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys_Kyrios_c1ea9cc.phar",
                     "build": 1228
+                },
+                {
+                    "version": "0.15.10",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys_Kyrios_80faae0.phar",
+                    "build": 1229
                 }
             ]
         }
