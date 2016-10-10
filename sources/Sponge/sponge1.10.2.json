@@ -1,0 +1,19 @@
+{
+    "name": "sponge",
+    "site_url": "https://www.spongepowered.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1787",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.10.2-2092-5.0.0-BETA-1787.zip",
+                    "build": 1787
+                }
+            ]
+        }
+    ]
+}

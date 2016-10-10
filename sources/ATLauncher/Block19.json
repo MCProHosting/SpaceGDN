@@ -1,5 +1,5 @@
 {
-    "name": "fireinthepipe",
+    "name": "Block19",
     "site_url": "https://www.atlauncher.com/",
     "description": "",
     "channels": [
@@ -9,9 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "2.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_200.zip",
-                    "build": 202
+                    "version": "a.1.0.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Block19_a101.zip",
+                    "build": 101
                 }
             ]
         }

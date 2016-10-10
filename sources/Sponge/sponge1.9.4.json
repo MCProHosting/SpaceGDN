@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+              {
+                  "version": "1503",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.9.4-1968-5.0.0-BETA-1503.zip",
+                  "build": 1503
+              },
                 {
                     "version": "1473",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.9.4-1965-5.0.0-BETA-1473.zip",

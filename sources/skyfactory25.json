@@ -10,6 +10,11 @@
             "mirror": true,
             "releases": [
               {
+                  "version": "2.5.5",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/SkyFactory2.5.5.zip",
+                  "build": 257
+              },
+              {
                   "version": "2.5.4",
                   "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/SkyFactory2.5.4.zip",
                   "build": 256

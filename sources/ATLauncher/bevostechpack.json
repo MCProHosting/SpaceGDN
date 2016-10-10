@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
               {
+                    "version": "2.1.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornRelease21.zip",
+                    "build": 227
+              },
+              {
                     "version": "1.0.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornRelease10.zip",
                     "build": 226

@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
               {
+                  "version": "3.3.0",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_330.zip",
+                  "build": 3330
+              },
+              {
                   "version": "3.1.1",
                   "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_311.zip",
                   "build": 3110

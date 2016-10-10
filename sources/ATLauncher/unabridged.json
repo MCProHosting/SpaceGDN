@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                  "version": "13",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Unabridged_1710Release13a.zip",
+                  "build": 13
+                },
+                {
                     "version": "12",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Unabridged_1710Release12.zip",
                     "build": 12
