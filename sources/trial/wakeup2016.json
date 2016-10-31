@@ -4,7 +4,7 @@
     "description": "Halloween Wake Up 2016 - By goCreative",
     "channels": [
         {
-            "name": "mcproghosting",
+            "name": "build",
             "interface": "json",
             "mode": "last-modified",
             "mirror": true,
