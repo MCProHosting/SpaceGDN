@@ -1,0 +1,19 @@
+{
+    "name": "wakeup2016",
+    "site_url": "http://mcproghosting.com",
+    "description": "Halloween Wake Up 2016 - By goCreative",
+    "channels": [
+        {
+            "name": "mcproghosting",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/trials/2016/wakeup2016_1.0.0.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}
