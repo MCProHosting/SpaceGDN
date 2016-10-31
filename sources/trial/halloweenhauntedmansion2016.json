@@ -4,7 +4,7 @@
     "description": "Halloween Haunted Mansion 2016",
     "channels": [
         {
-            "name": "mcproghosting",
+            "name": "build",
             "interface": "json",
             "mode": "last-modified",
             "mirror": true,
