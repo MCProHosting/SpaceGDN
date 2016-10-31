@@ -6,6 +6,7 @@
         {
             "name": "mcproghosting",
             "interface": "json",
+            "mode": "last-modified",
             "mirror": true,
             "releases": [
                 {
