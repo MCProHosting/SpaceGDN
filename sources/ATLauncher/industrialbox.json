@@ -1,0 +1,18 @@
+{
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/IndustrialBox_02.zip",
+                    "build": 2
+                }
+            ]
+        }
+    ]
+}

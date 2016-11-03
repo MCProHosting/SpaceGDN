@@ -1,0 +1,19 @@
+{
+    "name": "dnstoasteredition",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.1.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSToasterEdition_211.zip",
+                    "build": 211
+                }
+            ]
+        }
+    ]
+}

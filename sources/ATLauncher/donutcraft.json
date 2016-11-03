@@ -1,0 +1,19 @@
+{
+    "name": "donutcraft",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.0.0-013",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DonutCraft_200013.zip",
+                    "build": 22013
+                }
+            ]
+        }
+    ]
+}
