@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
               {
+                  "version": "1.2.1",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Hermitpack1.2.1.zip",
+                  "build": 121
+              },
+              {
                   "version": "1.1.0",
                   "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Hermitpack1.1.0.zip",
                   "build": 110

@@ -8,10 +8,16 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+
               {
                   "version": "5.0.0",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.10.2-5.0.0-beta9.zip",
-                  "build": 512
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.10.2-5.0.0-beta10.zip",
+                  "build": 513
+              },
+              {
+                  "version": "4.3.0",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.8.9-4.3.0-beta10.zip",
+                  "build": 430
               },
                 {
                     "version": "4.2.7",
