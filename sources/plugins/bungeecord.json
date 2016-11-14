@@ -37,6 +37,11 @@
                     "version": "1.10.2",
                     "url": "http://ci.md-5.net/job/BungeeCord/1199/artifact/bootstrap/target/BungeeCord.jar",
                     "build": 1199
+                },
+                {
+                    "version": "1.11",
+                    "url": "http://ci.md-5.net/job/BungeeCord/1204/artifact/bootstrap/target/BungeeCord.jar",
+                    "build": 1204
                 }
             ]
         }
