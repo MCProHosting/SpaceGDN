@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+              {
+                  "version": "2.1.4",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSToasterEdition_214.zip",
+                  "build": 214
+              },
                 {
                     "version": "2.1.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSToasterEdition_211.zip",
