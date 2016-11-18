@@ -8,6 +8,11 @@
             "interface": "json",
             "mirror": true,
             "releases": [
+              {
+                  "version": "1.0.2s",
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTBInventions-1.7.10-1.0.2.zip",
+                  "build": 102
+              },
                 {
                     "version": "1.0.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTBInventions-1.7.10-1.0.1.zip",
