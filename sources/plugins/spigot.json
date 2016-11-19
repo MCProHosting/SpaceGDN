@@ -73,6 +73,11 @@
                     "version": "1.10.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot1102.jar",
                     "build": 11020
+                },
+                {
+                    "version": "1.11",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot111.jar",
+                    "build": 11100
                 }
             ]
         }
