@@ -10,8 +10,8 @@
             "releases": [
               {
                   "version": "1879",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.10.2-2107-6.0.0-BETA-1879.zip",
-                  "build": 1879
+                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.10.2-2123-5.1.0-BETA-1879.zip",
+                  "build": 1900
               },
               {
                   "version": "1844",
