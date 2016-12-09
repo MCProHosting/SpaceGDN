@@ -8,21 +8,26 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
+                {
+                    "version": "2.21",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornRelease221.zip",
+                    "build": 228
+                },
+                {
                     "version": "2.1.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornRelease21.zip",
                     "build": 227
-              },
-              {
+                },
+                {
                     "version": "1.0.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornRelease10.zip",
                     "build": 226
-              },
-              {
+                },
+                {
                     "version": "BetaX",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornBetaX.zip",
                     "build": 225
-              },
+                },
             	{
                     "version": "BetaV",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornBetav.zip",

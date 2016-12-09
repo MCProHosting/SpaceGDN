@@ -8,16 +8,21 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
-                  "version": "2099",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.10.2-12.18.2.2099.zip",
-                  "build": 2099
-              },
-              {
-                  "version": "2098",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.10.2-12.18.2.2098.zip",
-                  "build": 2098
-              },
+                {
+                    "version": "2185",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.10.2-12.18.3.2185.zip",
+                    "build": 2185
+                },
+                {
+                    "version": "2099",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.10.2-12.18.2.2099.zip",
+                    "build": 2099
+                },
+                {
+                    "version": "2098",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.10.2-12.18.2.2098.zip",
+                    "build": 2098
+                },
                 {
                     "version": "2011",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.10.2-12.18.1.2011.zip",
