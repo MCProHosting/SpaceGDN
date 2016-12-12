@@ -10,8 +10,8 @@
             "releases": [
                 {
                     "version": "1.0.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/jurassiccraft2_server-1.7.10-1.0.2.zip",
-                    "build": 106
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/jurassiccraft2_server-1.7.10-1.0.2.fix.zip",
+                    "build": 107
                 }
             ]
         }
