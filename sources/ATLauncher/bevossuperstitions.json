@@ -1,0 +1,19 @@
+{
+    "name": "bevossuperstitions",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.7.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosSuperstitions_171.zip",
+                    "build": 171
+                }
+            ]
+        }
+    ]
+}
