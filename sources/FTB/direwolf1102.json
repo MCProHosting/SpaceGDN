@@ -1,13 +1,18 @@
 {
     "name": "direwolf20 1.10.2",
     "site_url": "http://www.creeperrepo.net/",
-    "description": "",
+    "description": "Play along with Direwolf20 in this FTB pack curated and designed to match his 1.10.2 YouTube series.",
     "channels": [
         {
             "name": "build",
             "interface": "json",
             "mirror": true,
             "releases": [
+                {
+                    "version": "1.1.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.1.4.zip",
+                    "build": 114
+                },
                 {
                     "version": "1.1.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.1.2.zip",
