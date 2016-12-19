@@ -8,36 +8,6 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-                {
-                    "version": "1.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer.zip",
-                    "build": 100
-                },
-                {
-                    "version": "1.0.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer_Final.zip",
-                    "build": 101
-                },
-                {
-                    "version": "1.0.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer_Final2.zip",
-                    "build": 102
-                },
-                {
-                    "version": "1.0.3",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer_Final3.zip",
-                    "build": 103
-                },
-                 {
-                    "version": "1.0.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer_Final4.zip",
-                    "build": 104
-                },
-                 {
-                    "version": "1.0.5",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer_Final5.zip",
-                    "build": 105
-                },
                  {
                     "version": "1.0.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/RobotXmasServer_Final6.zip",
