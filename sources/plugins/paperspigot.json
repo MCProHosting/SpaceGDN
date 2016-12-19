@@ -15,24 +15,9 @@
                     "build": 1880
                 },
                 {
-                    "version": "1.9",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot19.jar",
-                    "build": 1900
-                },
-                {
-                    "version": "1.9.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot192.jar",
-                    "build": 1920
-                },
-                {
                     "version": "1.9.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot194.jar",
                     "build": 1940
-                },
-                {
-                    "version": "1.10",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot110.jar",
-                    "build": 1100
                 },
                 {
                     "version": "1.10.2",
