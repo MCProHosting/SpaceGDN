@@ -10,26 +10,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "0.15.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys_1.2dev-26_cc278a2.phar",
-                    "build": 1226
-                },
-                {
-                    "version": "0.15.7",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys_Kyrios_ce14320.phar",
-                    "build": 1227
-                },
-                {
-                    "version": "0.15.9",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys_Kyrios_c1ea9cc.phar",
-                    "build": 1228
-                },
-                {
-                    "version": "0.15.10",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys_Kyrios_80faae0.phar",
-                    "build": 1229
-                },
-                {
                     "version": "0.16.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys_b3cc047_0.16.1.phar",
                     "build": 1230
