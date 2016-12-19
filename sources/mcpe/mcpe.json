@@ -10,56 +10,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "0.14",
-                    "url": "http://imagicalmine.github.io/ImagicalMine/service-download/ImagicalMine.phar",
-                    "build": 1400
-                },
-                {
-                    "version": "0.14.1",
-                    "url": "http://imagicalmine.github.io/ImagicalMine/service-download/ImagicalMine.phar",
-                    "build": 1401
-                },
-                {
-                    "version": "0.14.2",
-                    "url": "http://imagicalcorp.github.io/ImagicalMine/service-download/ImagicalMine.phar",
-                    "build": 128719528
-                },
-                {
-                    "version": "0.14.3",
-                    "url": "http://imagicalcorp.github.io/ImagicalMine/service-download/ImagicalMine.phar",
-                    "build": 132089340
-                },
-                {
-                    "version": "0.14.3",
-                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-26_80d6f8df_API-2.0.0.phar",
-                    "build": 162600000
-                },
-                {
-                    "version": "0.15.0",
-                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-27_ef8227a0_API-2.0.0.phar",
-                    "build": 162700000
-                },
-                {
-                    "version": "0.15.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys.phar",
-                    "build": 162710000
-                },
-                {
-                    "version": "0.15.7",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys.phar",
-                    "build": 162720000
-                },
-                {
-                    "version": "0.15.9",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys.phar",
-                    "build": 162730000
-                },
-                {
-                    "version": "0.15.10",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys.phar",
-                    "build": 162740000
-                },
-                {
                     "version": "0.16.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys.phar",
                     "build": 162750000
