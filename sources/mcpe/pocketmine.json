@@ -9,21 +9,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "0.14",
-                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-18_e11b7631_API-2.0.0.phar",
-                    "build": 1600
-                },
-                {
-                    "version": "0.14.2",
-                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-24_ac482621_API-2.0.0.phar",
-                    "build": 1624
-                },
-                {
-                    "version": "0.14.3",
-                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-25_e2d079a7_API-2.0.0.phar",
-                    "build": 1625
-                },
-                {
                     "version": "0.15.0",
                     "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-27_ef8227a0_API-2.0.0.phar",
                     "build": 1627
