@@ -9,41 +9,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.9.4",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1157/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1157
-                },
-                {
-                    "version": "1.10",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1158/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1158
-                },
-                {
-                    "version": "1.10.2",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1167/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1167
-                },
-                {
-                    "version": "1.10.2",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1189/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1189
-                },
-                {
-                    "version": "1.10.2",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1190/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1190
-                },
-                {
-                    "version": "1.10.2",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1199/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1199
-                },
-                {
-                    "version": "1.11",
-                    "url": "http://ci.md-5.net/job/BungeeCord/1204/artifact/bootstrap/target/BungeeCord.jar",
-                    "build": 1204
-                },
-                {
                     "version": "1.11",
                     "url": "http://ci.md-5.net/job/BungeeCord/1205/artifact/bootstrap/target/BungeeCord.jar",
                     "build": 1205
