@@ -13,6 +13,11 @@
                     "version": "0.16.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys_b3cc047_0.16.1.phar",
                     "build": 1230
+                },
+                {
+                    "version": "0.16.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys.phar",
+                    "build": 1231
                 }
             ]
         }
