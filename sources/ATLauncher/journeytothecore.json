@@ -8,25 +8,10 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
-                  "version": "1.9.2",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JourneytotheCore_192.zip",
-                  "build": 192
-              },
-              {
-                  "version": "1.9.1",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JourneytotheCore_191.zip",
-                  "build": 191
-              },
                 {
-                    "version": "1.9.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JourneytotheCore_19.zip",
-                    "build": 190
-                },
-                {
-                    "version": "1.8.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JourneytotheCore_181.zip",
-                    "build": 181
+                    "version": "1.9.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JourneytotheCore_192.zip",
+                    "build": 192
                 }
             ]
         }

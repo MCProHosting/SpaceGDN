@@ -8,45 +8,10 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
-                  "version": "3.8.06",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_3806.zip",
-                  "build": 3806
-              },
-              {
-                  "version": "3.7.0",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_37.zip",
-                  "build": 37
-              },
                 {
-                    "version": "3.4.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_36.zip",
-                    "build": 36
-                },
-                {
-                    "version": "3.4.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_34.zip",
-                    "build": 35
-                },
-                {
-                    "version": "3.3.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_33fix.zip",
-                    "build": 34
-                },
-                {
-                    "version": "3.2.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_32_fixed.zip",
-                    "build": 33
-                },
-                {
-                    "version": "3.1.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_31.zip",
-                    "build": 31
-                },
-                {
-                    "version": "3.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_30FINAL.zip",
-                    "build": 30
+                    "version": "3.8.06",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_3806.zip",
+                    "build": 3806
                 }
             ]
         }

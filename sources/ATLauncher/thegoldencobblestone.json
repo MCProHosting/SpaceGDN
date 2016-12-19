@@ -8,15 +8,10 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
-                  "version": "1.0.7",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TheGoldenCobblestone_107.zip",
-                  "build": 108
-              },
                 {
-                    "version": "1.0.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TheGoldenCobblestone_106.zip",
-                    "build": 106
+                    "version": "1.0.7",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TheGoldenCobblestone_107.zip",
+                    "build": 108
                 }
             ]
         }

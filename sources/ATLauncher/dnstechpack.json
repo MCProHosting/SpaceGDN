@@ -12,56 +12,6 @@
                     "version": "10.0.2.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10021.zip",
                     "build": 78114
-                },
-                {
-                    "version": "10.0.0.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10002.zip",
-                    "build": 78113
-                },
-                {
-                    "version": "10.0.0.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10001.zip",
-                    "build": 78112
-                },
-                {
-                    "version": "7.8.111",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_78111.zip",
-                    "build": 78111
-                },
-                {
-                    "version": "7.8.110",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_78110.zip",
-                    "build": 78110
-                },
-                {
-                    "version": "7.8.101",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_78101.zip",
-                    "build": 78101
-                },
-                {
-                    "version": "7.8.90",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_7890.zip",
-                    "build": 7890
-                },
-                {
-                    "version": "7.8.81",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_7881.zip",
-                    "build": 7881
-                },
-                {
-                    "version": "7.8.80",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_7880.zip",
-                    "build": 7880
-                },
-                {
-                    "version": "7.8.61",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_7861.zip",
-                    "build": 7861
-                },
-                {
-                    "version": "7.8.52",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_7852.zip",
-                    "build": 7852
                 }
             ]
         }

@@ -12,21 +12,6 @@
                     "version": "2.2.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_221.zip",
                     "build": 221
-                },
-                {
-                    "version": "2.1.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_211.zip",
-                    "build": 211
-                },
-                {
-                    "version": "2.0.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_201.zip",
-                    "build": 203
-                },
-                {
-                    "version": "2.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_200.zip",
-                    "build": 202
                 }
             ]
         }

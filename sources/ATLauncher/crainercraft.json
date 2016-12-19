@@ -9,14 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                  "version": "2.0.3",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/CrainerCraft_203.zip",
-                  "build": 204
-                },
-                {
-                    "version": "2.0.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/CrainerCraft_202.zip",
-                    "build": 202
+                    "version": "2.0.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/CrainerCraft_203.zip",
+                    "build": 204
                 }
             ]
         }

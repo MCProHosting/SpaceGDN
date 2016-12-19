@@ -8,40 +8,10 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
-                  "version": "2.2.1.9",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2219.zip",
-                  "build": 2219
-              },
-              {
-                  "version": "2.2.1.7",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2217.zip",
-                  "build": 2217
-              },
-              {
-                  "version": "2.2.1.6",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2216.zip",
-                  "build": 2216
-              },
                 {
-                    "version": "2.1.9.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2190.zip",
-                    "build": 2190
-                },
-                {
-                    "version": "2.1.8.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2180.zip",
-                    "build": 2180
-                },
-                {
-                    "version": "2.1.7.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2170.zip",
-                    "build": 2170
-                },
-                {
-                    "version": "2.1.6.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2164.zip",
-                    "build": 2164
+                    "version": "2.2.1.9",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_2219.zip",
+                    "build": 2219
                 }
             ]
         }

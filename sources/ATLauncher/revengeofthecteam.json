@@ -12,11 +12,6 @@
                     "version": "0.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/RevengeoftheCTeam_06.zip",
                     "build": 7
-                },
-                {
-                    "version": "0.5",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/RevengeoftheCTeam_05.zip",
-                    "build": 6
                 }
             ]
         }

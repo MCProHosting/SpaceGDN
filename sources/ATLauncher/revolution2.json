@@ -8,45 +8,10 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
-                  "version": "3.4.4",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_344.zip",
-                  "build": 3344
-              },
-              {
-                  "version": "3.4.2",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_342.zip",
-                  "build": 3342
-              },
-              {
-                  "version": "3.3.0",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_330.zip",
-                  "build": 3330
-              },
-              {
-                  "version": "3.1.1",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_311.zip",
-                  "build": 3110
-              },
                 {
-                    "version": "2.7.5.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution2_2750.zip",
-                    "build": 2750
-                },
-                {
-                    "version": "2.7.4.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution2_2740.zip",
-                    "build": 2740
-                },
-                {
-                    "version": "2.7.2.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution2_2720.zip",
-                    "build": 2720
-                },
-                {
-                    "version": "2.6.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution2_2600.zip",
-                    "build": 2600
+                    "version": "3.4.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_344.zip",
+                    "build": 3344
                 }
             ]
         }

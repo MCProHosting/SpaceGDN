@@ -8,30 +8,10 @@
             "interface": "json",
             "mirror": true,
             "releases": [
-              {
-                  "version": "3.4.0.3",
-                  "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_3403.zip",
-                  "build": 3404
-              },
                 {
-                    "version": "3.4.0.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_3402.zip",
-                    "build": 3403
-                },
-                {
-                    "version": "3.4.0.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_3401.zip",
-                    "build": 3402
-                },
-                {
-                    "version": "3.4.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_3400.zip",
-                    "build": 3400
-                },
-                {
-                    "version": "3.3.01",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_3301.zip",
-                    "build": 3301
+                    "version": "3.4.0.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_3403.zip",
+                    "build": 3404
                 }
             ]
         }
