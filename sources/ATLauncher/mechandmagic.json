@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1.0.5hf",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/MechMagic_105hf.zip",
+                    "build": 105
+                },
+                {
                     "version": "1.0.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/MechMagic_103.zip",
                     "build": 103

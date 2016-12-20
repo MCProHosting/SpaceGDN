@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "2.1.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosSuperstitions_210.zip",
+                    "build": 210
+                },
+                {
                     "version": "1.7.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosSuperstitions_171.zip",
                     "build": 171
