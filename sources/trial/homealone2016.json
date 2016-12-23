@@ -1,0 +1,20 @@
+{
+    "name": "homealone2016",
+    "site_url": "http://mcprohosting.com",
+    "description": "Home Alone",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "last-modified",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Int/trials/2016/homealone2016_1.0.0.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}
