@@ -1,0 +1,20 @@
+{
+    "name": "skyfactory3",
+    "site_url": "http://www.creeperrepo.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "last-modified",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "3.0.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.1.zip",
+                    "build": 301
+                }
+            ]
+        }
+    ]
+}
