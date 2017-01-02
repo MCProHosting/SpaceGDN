@@ -19,6 +19,11 @@
                     "build": 431
                 },
                 {
+                    "version": "4.2.7",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon189_4.2.7.zip",
+                    "build": 427
+                },
+                {
                     "version": "4.1.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon18_4.1.4.zip",
                     "build": 414
