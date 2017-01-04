@@ -12,6 +12,11 @@
                     "version": "0.15.0",
                     "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-27_ef8227a0_API-2.0.0.phar",
                     "build": 1627
+                },
+                {
+                    "version": "1.0.0 Beta",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine/1.0.0/PocketMine-MP_1.6.2dev-61_5f5a6748_API-3.0.0-ALPHA1.phar",
+                    "build": 1628
                 }
             ]
         }
