@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1.1.4.7beta",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_11021147beta.zip",
+                    "build": 3807
+                },
+                {
                     "version": "3.8.06",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_3806.zip",
                     "build": 3806

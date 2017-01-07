@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "10.0.4.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10044.zip",
+                    "build": 78116
+                },
+                {
                     "version": "10.0.3.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10030.zip",
                     "build": 78115
