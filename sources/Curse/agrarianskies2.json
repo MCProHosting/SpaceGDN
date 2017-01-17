@@ -1,0 +1,19 @@
+{
+    "name": "agrarianskies2",
+    "site_url": "https://minecraft.curseforge.com/projects/agrarian-skies-2",
+    "description": "The original skyblock quest pack is back for 1.7.10. Follow the quest book, meet new quest givers and rebuild your world starting from almost nothing. There are multiple map options ranging from easy to hard. Your game difficulty will determine what you start with for resources.  This pack completely changes the way minecraft is played. Nothing is safe from The Jaded One's tweaks.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.1.14",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AgrarianSkies2_server-1.7.10-1.1.14.zip",
+                    "build": 1114
+                }
+            ]
+        }
+    ]
+}

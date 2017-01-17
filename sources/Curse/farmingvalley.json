@@ -1,0 +1,19 @@
+{
+    "name": "farmingvalley",
+    "site_url": "https://minecraft.curseforge.com/projects/farming-valley",
+    "description": "This modpack is centered around the genre of games that Stardew Valley and Harvest Moon are in. Basically, instead of the typical grind in MC, you here have to build and maintain a farm/small town in order to be able to progress. Your first goal will be to spawn in a Goddess, who will explain how to progress in the pack. Here you will slowly build up a small town, have huge farms, sell your crops, gain money and progress further. There are 4 seasons, each of which have special crops to buy, plant, and then harvest. A huge part of this pack is selling your goods, at local NPCs, to get money, that you can then use to progress either further with your village, or even buy parts from other mods to progress in those. In this pack, there are many parts, you can’t craft, instead you have to buy them with your hard earned money. This pack also features some small twists along the way, like hydration. You will also find an achievement book, that gives you some long-term goals.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "0.6.9",
+                    "url": "FarmingValley_server-1.10.2-0.6.9.zip",
+                    "build": 69
+                }
+            ]
+        }
+    ]
+}

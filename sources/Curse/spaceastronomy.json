@@ -1,0 +1,19 @@
+{
+    "name": "spaceastronomy",
+    "site_url": "https://minecraft.curseforge.com/projects/space-astronomy",
+    "description": "Space Astronomy is a space based modpack, that include loads of the latest tech and space mods. Explore the Universe with the help of the provided quest book that will lead you around and that required steps that you will need to take.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.5.8",
+                    "url": "SpaceAstronomy_server-1.7.10-1.5.8.zip",
+                    "build": 158
+                }
+            ]
+        }
+    ]
+}
