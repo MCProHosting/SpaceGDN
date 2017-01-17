@@ -10,7 +10,7 @@
             "releases": [
                 {
                     "version": "2.2.2",
-                    "url": "ProjectOzone2_server-1.7.10-2.2.2.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/ProjectOzone2_server-1.7.10-2.2.2.zip",
                     "build": 222
                 }
             ]

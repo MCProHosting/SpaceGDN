@@ -10,7 +10,7 @@
             "releases": [
                 {
                     "version": "1.2.5",
-                    "url": "SkyExchange_server-1.10.2-1.2.5.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SkyExchange_server-1.10.2-1.2.5.zip",
                     "build": 125
                 }
             ]

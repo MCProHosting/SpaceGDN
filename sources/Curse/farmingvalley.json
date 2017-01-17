@@ -10,7 +10,7 @@
             "releases": [
                 {
                     "version": "0.6.9",
-                    "url": "FarmingValley_server-1.10.2-0.6.9.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.6.9.zip",
                     "build": 69
                 }
             ]

@@ -10,7 +10,7 @@
             "releases": [
                 {
                     "version": "1.5.8",
-                    "url": "SpaceAstronomy_server-1.7.10-1.5.8.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SpaceAstronomy_server-1.7.10-1.5.8.zip",
                     "build": 158
                 }
             ]
