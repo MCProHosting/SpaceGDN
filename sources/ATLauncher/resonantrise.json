@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "4.1.0.1b",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_4101b.zip",
+                    "build": 4101
+                },
+                {
                     "version": "b.1.0.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_b101.zip",
                     "build": 3405
