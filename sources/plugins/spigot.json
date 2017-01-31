@@ -11,32 +11,32 @@
             "releases": [
                 {
                     "version": "1.7.10",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot1710.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot-1.7.10.jar",
                     "build": 1710
                 },                
                 {
                     "version": "1.8.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot188.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot-1.8.8.jar",
                     "build": 1880
                 },
                 {
                     "version": "1.9.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot194.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot-1.9.4.jar",
                     "build": 1940
                 },
                 {
                     "version": "1.10.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot1102.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot-1.10.2.jar",
                     "build": 11020
                 },
                 {
                     "version": "1.11",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot111.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot-1.11.jar",
                     "build": 11100
                 },
                 {
                     "version": "1.11.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot1112.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot-1.11.2.jar",
                     "build": 11120
                 }
             ]
