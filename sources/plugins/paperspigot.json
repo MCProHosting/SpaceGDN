@@ -11,27 +11,27 @@
             "releases": [
                 {
                     "version": "1.8.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot188.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.8.8.jar",
                     "build": 1880
                 },
                 {
                     "version": "1.9.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot194.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.9.4.jar",
                     "build": 1940
                 },
                 {
                     "version": "1.10.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot1102.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.10.2.jar",
                     "build": 1102
                 },
                 {
                     "version": "1.11",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot111.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.11.jar",
                     "build": 1110
                 },
                 {
                     "version": "1.11.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot1112.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.11.2.jar",
                     "build": 1112
                 }
             ]

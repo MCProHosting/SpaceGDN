@@ -11,27 +11,27 @@
             "releases": [
                 {
                     "version": "1.8.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit188.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.8.8.jar",
                     "build": 18800
                 },
                 {
                     "version": "1.9.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit194.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.9.4.jar",
                     "build": 19400
                 },
                 {
                     "version": "1.10.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit1102.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.10.2.jar",
                     "build": 110200
                 },
                 {
                     "version": "1.11",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit111.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.11.jar",
                     "build": 111000
                 },
                 {
                     "version": "1.11.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit1112.jar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.11.2.jar",
                     "build": 111200
                 }
             ]
