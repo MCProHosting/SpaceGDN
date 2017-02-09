@@ -1,0 +1,19 @@
+{
+    "name": "regrowth",
+    "site_url": "https://minecraft.curseforge.com/projects/regrowth-an-hqm-pack",
+    "description": "What Happens when Nature goes missing? How will you work to recover it? Regrowth is an HQM based pack without the common Hardcore aspect where you seek to solve these problems. You'll start in a wasteland and eventually have the means to create a thriving magical and technical infrastructure.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Regrowth_server-1.7.10-1.0.2.zip",
+                    "build": 102
+                }
+            ]
+        }
+    ]
+}
