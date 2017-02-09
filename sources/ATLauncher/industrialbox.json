@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "0.4.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/IndustrialBox_041.zip",
+                    "build": 4
+                },
+                {
                     "version": "0.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/IndustrialBox_03.zip",
                     "build": 3
