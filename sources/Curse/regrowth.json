@@ -10,8 +10,8 @@
             "releases": [
                 {
                     "version": "1.0.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Regrowth_server-1.7.10-1.0.2a.zip",
-                    "build": 103
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Regrowth_server-1.7.10-1.0.2b.zip",
+                    "build": 104
                 }
             ]
         }

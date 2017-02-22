@@ -1,0 +1,19 @@
+{
+    "name": "pixelmon_18",
+    "site_url": "http://pixelmonmod.com",
+    "description": "The amazing pokemon mod for minecraft players and server owners to play with the world of pokemon in one of the most creative pc games.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "4.1.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon18_4.1.4.zip",
+                    "build": 414
+                }
+            ]
+        }
+    ]
+}
