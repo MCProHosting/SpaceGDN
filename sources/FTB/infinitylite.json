@@ -9,6 +9,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1.7.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/InfinityLite-1.10.2-1.7.0.zip",
+                    "build": 170
+                },
+                {
                     "version": "1.6.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/InfinityLite-1.10.2-1.6.0.zip",
                     "build": 160
