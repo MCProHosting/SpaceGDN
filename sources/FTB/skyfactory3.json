@@ -10,14 +10,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "3.0.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.6.zip",
-                    "build": 306
-                },
-                {
-                    "version": "3.0.5",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.5.zip",
-                    "build": 305
+                    "version": "3.0.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.1.zip",
+                    "build": 301
                 },
                 {
                     "version": "3.0.4",
@@ -25,9 +20,19 @@
                     "build": 304
                 },
                 {
-                    "version": "3.0.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.1.zip",
-                    "build": 301
+                    "version": "3.0.5",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.5.zip",
+                    "build": 305
+                },
+                {
+                    "version": "3.0.6",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.6.zip",
+                    "build": 306
+                },
+                {
+                    "version": "3.0.8",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.8.zip",
+                    "build": 308
                 }
             ]
         }
