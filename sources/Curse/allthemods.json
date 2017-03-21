@@ -9,14 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "2.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-2.1.zip",
-                    "build": 210
-                },
-                {
-                    "version": "1.59",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-1.59.zip",
-                    "build": 159
+                    "version": "1.57",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-1.57.zip",
+                    "build": 157
                 },
                 {
                     "version": "1.58",
@@ -24,9 +19,19 @@
                     "build": 158
                 },
                 {
-                    "version": "1.57",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-1.57.zip",
-                    "build": 157
+                    "version": "1.59",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-1.59.zip",
+                    "build": 159
+                },
+                {
+                    "version": "2.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-2.1.zip",
+                    "build": 210
+                },
+                {
+                    "version": "2.52b",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-2.52b.zip",
+                    "build": 252
                 }
             ]
         }
