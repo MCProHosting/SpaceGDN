@@ -9,15 +9,20 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "3.4.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_344.zip",
+                    "build": 3344
+                },
+                {
                     "version": "3.5.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_350.zip",
                     "build": 3350
                 },
                 {
-                    "version": "3.4.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_344.zip",
-                    "build": 3344
-                }
+                    "version": "3.6.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_362.zip",
+                    "build": 3362
+                },
             ]
         }
     ]

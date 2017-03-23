@@ -9,14 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "10.0.5.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10050.zip",
-                    "build": 78117
-                },
-                {
-                    "version": "10.0.4.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10044.zip",
-                    "build": 78116
+                    "version": "10.0.2.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10021.zip",
+                    "build": 78114
                 },
                 {
                     "version": "10.0.3.0",
@@ -24,9 +19,19 @@
                     "build": 78115
                 },
                 {
-                    "version": "10.0.2.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10021.zip",
-                    "build": 78114
+                    "version": "10.0.4.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10044.zip",
+                    "build": 78116
+                },
+                {
+                    "version": "10.0.5.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10050.zip",
+                    "build": 78117
+                },
+                {
+                    "version": "10.0.7.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10070.zip",
+                    "build": 78118
                 }
             ]
         }
