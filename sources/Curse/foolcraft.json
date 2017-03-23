@@ -1,0 +1,19 @@
+{
+    "name": "foolcraft",
+    "site_url": "https://minecraft.curseforge.com/projects/foolcraft",
+    "description": "FoolCraft is a Minecraft 1.10.2 Modpack aimed at having as much fun as freakin' possible. This is the pack used by the YouTube group FoolCraft.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FoolCraft_server-1.10.2-1.1.zip",
+                    "build": 110
+                }
+            ]
+        }
+    ]
+}
