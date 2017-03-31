@@ -17,6 +17,11 @@
                     "version": "1.0.0 Beta",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine/1.0.0/PocketMine-MP_1.6.2dev-61_5f5a6748_API-3.0.0-ALPHA1.phar",
                     "build": 1628
+                },
+                {
+                    "version": "1.0.4.11",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine/1.0.0/PocketMine-MP_1.6.2dev-35_afb2e0c5_API-3.0.0-ALPHA4.phar",
+                    "build": 1629
                 }
             ]
         }
