@@ -18,6 +18,11 @@
                     "version": "0.16.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Genisys/Genisys.phar",
                     "build": 1231
+                },
+                {
+                    "version": "1.0.4.11",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine/1.0.0/PocketMine-MP_1.6.2dev-35_afb2e0c5_API-3.0.0-ALPHA4.phar",
+                    "build": 1232
                 }
             ]
         }
