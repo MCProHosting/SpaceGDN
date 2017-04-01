@@ -9,14 +9,19 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1.5.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Hermitpack1.5.1.zip",
+                    "build": 151
+                },
+                {
                     "version": "1.6.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Hermitpack1.6.1.zip",
                     "build": 161
                 },
                 {
-                    "version": "1.5.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Hermitpack1.5.1.zip",
-                    "build": 151
+                    "version": "1.7.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/HermitPack-1.10.2-1.7.0.zip",
+                    "build": 170
                 }
             ]
         }
