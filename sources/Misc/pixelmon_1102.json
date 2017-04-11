@@ -9,14 +9,19 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "5.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.10.2-5.0.0-nonbeta.zip",
+                    "build": 515
+                },
+                {
                     "version": "5.0.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.10.2-5.0.1.zip",
                     "build": 517
                 },
                 {
-                    "version": "5.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.10.2-5.0.0-nonbeta.zip",
-                    "build": 515
+                    "version": "5.0.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.10.2-5.0.3.zip",
+                    "build": 518
                 }
             ]
         }
