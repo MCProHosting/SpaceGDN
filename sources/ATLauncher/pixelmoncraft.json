@@ -12,6 +12,11 @@
                     "version": "3.5.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/PixelmonCraft_3.5.1.zip",
                     "build": 351
+                },
+                {
+                    "version": "5.0.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/PixelmonCraft_503.zip",
+                    "build": 503
                 }
             ]
         }

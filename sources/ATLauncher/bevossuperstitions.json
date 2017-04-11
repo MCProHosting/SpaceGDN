@@ -52,6 +52,11 @@
                     "version": "3.4.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosSuperstitions_340.zip",
                     "build": 340
+                },
+                {
+                    "version": "3.6.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosSuperstitions_360.zip",
+                    "build": 360
                 }
             ]
         }
