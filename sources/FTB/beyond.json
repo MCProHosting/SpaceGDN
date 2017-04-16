@@ -27,6 +27,11 @@
                     "version": "1.4.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTBBeyond_server-1.10.2-1.4.2.zip",
                     "build": 142
+                },
+                {
+                    "version": "1.5.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTBBeyond_server-1.10.2-1.5.3.zip",
+                    "build": 153
                 }
             ]
         }
