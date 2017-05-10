@@ -10,8 +10,8 @@
             "releases": [
                 {
                     "version": "1.0.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Invasion_server-1.10.2-1.0.6",
-                    "build": 106
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Invasion_server-1.10.2-1.0.6.zip",
+                    "build": 107
                 }
             ]
         }
