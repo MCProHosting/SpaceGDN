@@ -42,6 +42,11 @@
                     "version": "2.54b",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-2.54b.zip",
                     "build": 255
+                },
+                {
+                    "version": "2.55e",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-2.55e.zip",
+                    "build": 256
                 }
             ]
         }
