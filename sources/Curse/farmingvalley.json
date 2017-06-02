@@ -9,31 +9,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "0.6.9",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.6.9.zip",
-                    "build": 69
-                },
-                {
-                    "version": "0.7.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.7.0.zip",
-                    "build": 70
-                },
-                {
-                    "version": "0.7.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.7.1.zip",
-                    "build": 71
-                },
-                {
-                    "version": "0.7.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.7.4.zip",
-                    "build": 74
-                },
-                {
-                    "version": "0.7.6",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.7.6.zip",
-                    "build": 76
-                },
-                {
                     "version": "0.7.7",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.7.7.zip",
                     "build": 77

@@ -9,21 +9,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "2.0.0-016",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DonutCraft_200016.zip",
-                    "build": 22016
-                },
-                {
-                    "version": "0.0.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DonutCraft_004.zip",
-                    "build": 22017
-                },
-                {
-                    "version": "0.1.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DonutCraft_010.zip",
-                    "build": 22018
-                },
-                {
                     "version": "0.1.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DonutCraft_011.zip",
                     "build": 22019

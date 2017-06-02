@@ -9,16 +9,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "2.2.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSToasterEdition_220.zip",
-                    "build": 220
-                },
-                {
-                    "version": "2.1.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSToasterEdition_218.zip",
-                    "build": 218
-                },
-                {
                     "version": "2.1.6",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSToasterEdition_216.zip",
                     "build": 216

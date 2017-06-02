@@ -9,46 +9,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.1.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.1.4.zip",
-                    "build": 114
-                },
-                {
-                    "version": "1.3.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.3.2.zip",
-                    "build": 132
-                },
-                {
-                    "version": "1.4.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.4.1.zip",
-                    "build": 141
-                },
-                {
-                    "version": "1.5.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.5.1.zip",
-                    "build": 151
-                },
-                {
-                    "version": "1.6.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.6.2.zip",
-                    "build": 162
-                },
-                {
-                    "version": "1.7.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.7.0.zip",
-                    "build": 170
-                },
-                {
-                    "version": "1.8.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.8.1.zip",
-                    "build": 181
-                },
-                {
-                    "version": "1.9.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.9.1.zip",
-                    "build": 191
-                },
-                {
                     "version": "1.10.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.10.0.zip",
                     "build": 192

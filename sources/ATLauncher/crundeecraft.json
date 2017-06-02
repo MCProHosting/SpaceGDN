@@ -9,11 +9,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.0.23",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/CrundeeCraft_1023.zip",
-                    "build": 1023
-                },
-                {
                     "version": "1.1.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/CrundeeCraft_110.zip",
                     "build": 1100
