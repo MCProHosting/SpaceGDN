@@ -12,6 +12,11 @@
                     "version": "3.6.5",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_365.zip",
                     "build": 3365
+                },
+                {
+                    "version": "3.7.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Revolution3_373.zip",
+                    "build": 3366
                 }
             ]
         }

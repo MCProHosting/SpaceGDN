@@ -12,6 +12,11 @@
                     "version": "3.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_34.zip",
                     "build": 2223
+                },
+                {
+                    "version": "3.6",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/TechNodefirmacraft_36.zip",
+                    "build": 2224
                 }
             ]
         }

@@ -12,6 +12,11 @@
                     "version": "0.0.3.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Nameless_0033.zip",
                     "build": 33
+                },
+                {
+                    "version": "0.3.0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Nameless_0302.zip",
+                    "build": 34
                 }
             ]
         }
