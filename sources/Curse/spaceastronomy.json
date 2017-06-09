@@ -12,6 +12,11 @@
                     "version": "1.6.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SpaceAstronomy_server-1.7.10-1.6.3.zip",
                     "build": 163
+                },
+                {
+                    "version": "1.6.6",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SpaceAstronomy_server-1.7.10-1.6.6.zip",
+                    "build": 166
                 }
             ]
         }
