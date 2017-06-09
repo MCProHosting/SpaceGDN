@@ -27,6 +27,11 @@
                     "version": "5.0.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.10.2-5.0.4.zip",
                     "build": 519
+                },
+                {
+                    "version": "5.1.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.10.2-5.1.0.zip",
+                    "build": 520
                 }
             ]
         }
