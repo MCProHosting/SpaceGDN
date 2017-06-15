@@ -1,34 +1,13 @@
 {
-    "name": "PocketMine",
-    "site_url": "https://www.pocketmine.net/",
-    "description": "and/or https://github.com/ImagicalMine/ImagicalMine support",
+    "name": "mcpe",
+    "site_url": "PocketMine",
+    "description": "High performance MCPE Servers",
     "channels": [
         {
             "name": "build",
-            "interface": "json",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "0.15.0",
-                    "url": "https://bintray.com/artifact/download/pocketmine/PocketMine/PocketMine-MP_1.6dev-27_ef8227a0_API-2.0.0.phar",
-                    "build": 1627
-                },
-                {
-                    "version": "1.0.0 Beta",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine/1.0.0/PocketMine-MP_1.6.2dev-61_5f5a6748_API-3.0.0-ALPHA1.phar",
-                    "build": 1628
-                },
-                {
-                    "version": "1.0.4.11",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine/1.0.0/PocketMine-MP_1.6.2dev-35_afb2e0c5_API-3.0.0-ALPHA4.phar",
-                    "build": 1629
-                },
-                {
-                    "version": "1.1.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine/1.0.0/PocketMine-MP_1.6.2dev-157_c445db42_API-3.0.0-ALPHA5.phar",
-                    "build": 1630
-                }
-            ]
+            "interface": "jenkins",
+            "url": "https://jenkins.pmmp.io/job/PocketMine-MP/",
+            "mirror": false
         }
     ]
 }
