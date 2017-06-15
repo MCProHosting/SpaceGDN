@@ -18,6 +18,11 @@
                     "version": "Creative Plugin 1.11.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Creative/Creative.Build2.zip",
                     "build": 2
+                },
+                {
+                    "version": "Creative Plugin 1.12",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Creative/Creative.Build3.zip",
+                    "build": 3
                 }
             ]
         }
