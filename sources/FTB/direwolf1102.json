@@ -12,6 +12,11 @@
                     "version": "1.10.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.10.0.zip",
                     "build": 192
+                },
+                {
+                    "version": "1.11.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.10.2-1.11.0.zip",
+                    "build": 193
                 }
             ]
         }
