@@ -4,11 +4,16 @@
     "description": "The pack consists of various tech mods that uses a standardized electricity system, brining technology and exciting possibilities into Minecraft.",
     "channels": [
         {
-            "name": "voltz",
-            "interface": "direct",
-            "mirror": false,
-            "url" : "http://mirror.technicpack.net/Technic/servers/voltz/Voltz_Server_v2.0.4.zip",
-            "version" : "2.0.4"
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.0.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/Voltz_Server_v2.0.4.zip",
+                    "build": 204
+                }
+            ]
         }
     ]
 }

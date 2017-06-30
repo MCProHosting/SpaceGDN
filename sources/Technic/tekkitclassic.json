@@ -4,11 +4,16 @@
     "description": "Alter the world, traverse its skies and dive into its seas. Use technology and magic to build and destroy as you see fit, with your friends and against your enemies.",
     "channels": [
         {
-            "name": "tekkitclassic",
-            "interface": "direct",
-            "mirror": false,
-            "url" : "http://mirror.technicpack.net/Technic/servers/tekkit/Tekkit_Server_3.1.2.zip",
-            "version" : "3.1.2"
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "3.1.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/Tekkit_Server_3.1.2.zip",
+                    "build": 312
+                }
+            ]
         }
     ]
 }
