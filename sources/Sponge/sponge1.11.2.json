@@ -1,0 +1,19 @@
+{
+    "name": "sponge1112",
+    "site_url": "https://www.spongepowered.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2442",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.11.2-2393-6.1.0-BETA-2442.zip",
+                    "build": 2442
+                }
+            ]
+        }
+    ]
+}
