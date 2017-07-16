@@ -13,6 +13,11 @@
                     "version": "Factions 1.11.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build1.zip",
                     "build": 1
+                },
+                {
+                    "version": "Factions 1.12",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build2.zip",
+                    "build": 2
                 }
             ]
         }
