@@ -1,0 +1,20 @@
+{
+    "name": "Oxide",
+    "site_url": "http://oxidemod.org",
+    "description": "Oxide server mod framework and API for Rust. Oxide is a complete rewrite of the popular, original Oxide mod for the game Rust.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "force",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.0.1939",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.1939.zip",
+                    "build": 201939
+                }
+            ]
+        }
+    ]
+}
