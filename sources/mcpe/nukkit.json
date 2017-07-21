@@ -1,0 +1,20 @@
+{
+    "name": "nukkit",
+    "site_url": "https://nukkit.io/",
+    "description": "PocketMine-like structure and Java-armed strength. Developed for multiplayer survival games.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "force",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Nukkit/Nukkit-1.0.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}
