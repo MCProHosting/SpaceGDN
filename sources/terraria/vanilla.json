@@ -1,7 +1,7 @@
 {
     "name": "terraria-vanilla",
     "site_url": "https://terraria.org/",
-    "description": "Terraria as it was meant to be played - a stable, unmodded experience.",
+    "description": "Terraria as it was meant to be played - the latest Terraria server straight from Steam.",
     "channels": [
         {
             "name": "build",
