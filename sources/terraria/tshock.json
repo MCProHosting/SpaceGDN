@@ -1,0 +1,20 @@
+{
+    "name": "terraria-tshock",
+    "site_url": "https://tshock.co/xf/index.php",
+    "description": "TShock is an alternate server software for Terraria designed to allow more in-depth tweaking of game settings and more options for large servers.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "force",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Terraria/Terraria-TShock.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}
