@@ -1,5 +1,5 @@
 {
-    "name": "Oxide",
+    "name": "oxide",
     "site_url": "http://oxidemod.org",
     "description": "Oxide server mod framework and API for Rust. Oxide is a complete rewrite of the popular, original Oxide mod for the game Rust.",
     "channels": [
