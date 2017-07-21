@@ -1,0 +1,20 @@
+{
+    "name": "terraria-vanilla",
+    "site_url": "https://terraria.org/",
+    "description": "Terraria as it was meant to be played - a stable, unmodded experience.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "force",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Terraria/Terraria-Vanilla.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}
