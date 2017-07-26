@@ -1,0 +1,20 @@
+{
+    "name": "golilypad",
+    "site_url": "http://www.lilypadmc.org/",
+    "description": "GoLilyPad is an alternative to BungeeCord that is written in Go - utilizing lesser server resources while delivering great performance.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "force",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "Build #163",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/GoLilyPad/GoLilyPad-163.zip",
+                    "build": 163
+                }
+            ]
+        }
+    ]
+}
