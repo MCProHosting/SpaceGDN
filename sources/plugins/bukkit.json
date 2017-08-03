@@ -38,6 +38,11 @@
                     "version": "1.12",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.12.jar",
                     "build": 112000
+                },
+                {
+                    "version": "1.12.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.12.1.jar",
+                    "build": 112100
                 }
             ]
         }
