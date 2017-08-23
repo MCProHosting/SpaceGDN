@@ -17,6 +17,11 @@
                     "version": "2.7.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTB_Infinity_2.7.0.zip",
                     "build": 2070
+                },
+                {
+                    "version": "3.0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTB_Infinity_3.0.2.zip",
+                    "build": 3002
                 }
             ]
         }
