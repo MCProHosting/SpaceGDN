@@ -11,7 +11,12 @@
                 {
                     "version": "0.1.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DonutCraft_011.zip",
-                    "build": 22019
+                    "build": 22020
+                },
+                {
+                    "version": "1.0.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DonutCraft_101.zip",
+                    "build": 22021
                 }
             ]
         }
