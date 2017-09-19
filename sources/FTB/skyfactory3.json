@@ -23,6 +23,11 @@
                     "version": "3.0.13",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Skyfactory3.0.13.zip",
                     "build": 313
+                },
+                {
+                    "version": "3.0.14",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/SkyFactory3.0.14.zip",
+                    "build": 314
                 }
             ]
         }
