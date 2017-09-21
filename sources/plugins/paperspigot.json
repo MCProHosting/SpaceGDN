@@ -10,6 +10,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1.7.10",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.7.10.jar",
+                    "build": 1710
+                },
+                {
                     "version": "1.8.8",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.8.8.jar",
                     "build": 1880
