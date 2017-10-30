@@ -1,0 +1,19 @@
+{
+    "name": "forge1122",
+    "site_url": "http://files.minecraftforge.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "14.23.0.2491",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.12.2-14.23.0.2491-universal.zip",
+                    "build": 2491
+                }
+            ]
+        }
+    ]
+}
