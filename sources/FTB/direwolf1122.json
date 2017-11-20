@@ -1,0 +1,19 @@
+{
+    "name": "direwolf20_1122",
+    "site_url": "https://www.feed-the-beast.com/projects/ftb-presents-direwolf20-1-12",
+    "description": "Play along with Direwolf20 in this FTB pack curated and designed to match his 1.12.2 YouTube series.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.1.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Direwolf20-1.12.2-1.1.0.zip",
+                    "build": 110
+                }
+            ]
+        }
+    ]
+}
