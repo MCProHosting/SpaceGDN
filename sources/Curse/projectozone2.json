@@ -22,6 +22,11 @@
                     "version": "2.3.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/ProjectOzone2_server-1.7.10-2.3.0.zip",
                     "build": 230
+                },
+                {
+                    "version": "2.4.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/ProjectOzone2_server-1.7.10-2.4.0.zip",
+                    "build": 240
                 }
             ]
         }
