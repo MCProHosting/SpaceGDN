@@ -12,6 +12,11 @@
                     "version": "2189",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.11-13.19.1.2189.zip",
                     "build": 2189
+                },
+                {
+                    "version": "13.19.1.2199",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.11-13.19.1.2199-universal.zip",
+                    "build": 2199
                 }
             ]
         }

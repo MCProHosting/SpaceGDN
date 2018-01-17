@@ -9,14 +9,19 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1558",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.7.10-10.13.4.1558.zip",
+                    "build": 1558
+                },
+                {
                     "version": "1614",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.7.10-10.13.4.1614-1.7.10.zip",
                     "build": 1614
                 },
                 {
-                    "version": "1558",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.7.10-10.13.4.1558.zip",
-                    "build": 1558
+                    "version": "10.13.4.1614",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.7.10-10.13.4.1614-1.7.10.zip",
+                    "build": 1615
                 }
             ]
         }
