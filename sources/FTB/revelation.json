@@ -1,0 +1,19 @@
+{
+    "name": "revelation",
+    "site_url": "https://www.feed-the-beast.com/projects/ftb-revelation",
+    "description": "Revelation is a general all-purpose pack that is designed for solo play as well as small and medium population servers.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.2.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Revelation-1.12.2-1.2.0.zip",
+                    "build": 120
+                }
+            ]
+        }
+    ]
+}
