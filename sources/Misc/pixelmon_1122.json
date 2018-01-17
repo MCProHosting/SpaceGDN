@@ -1,0 +1,19 @@
+{
+    "name": "pixelmon_1122",
+    "site_url": "http://pixelmonmod.com",
+    "description": "The amazing pokemon mod for minecraft players and server owners to play with the world of pokemon in one of the most creative pc games.",
+    "channels": [
+        {
+            "name": "pixelmon",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "Reforged 6.1.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/Pixelmon-1.12.2-Reforged-1.2.1.zip",
+                    "build": 610
+                }
+            ]
+        }
+    ]
+}
