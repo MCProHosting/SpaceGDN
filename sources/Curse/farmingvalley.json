@@ -22,6 +22,11 @@
                     "version": "0.8.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.8.0.zip",
                     "build": 80
+                },
+                {
+                    "version": "0.9.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FarmingValley_server-1.10.2-0.9.1.zip",
+                    "build": 91
                 }
             ]
         }
