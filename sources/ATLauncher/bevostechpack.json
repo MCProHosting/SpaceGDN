@@ -12,6 +12,11 @@
                     "version": "2.5",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornRelease25.zip",
                     "build": 230
+                },
+                {
+                    "version": "2.7.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornRelease270.zip",
+                    "build": 270
                 }
             ]
         }

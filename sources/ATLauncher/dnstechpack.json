@@ -22,6 +22,11 @@
                     "version": "10.2.0.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_10202.zip",
                     "build": 78122
+                },
+                {
+                    "version": "12.0.4.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/DNSTechpack_12041.zip",
+                    "build": 78123
                 }
             ]
         }

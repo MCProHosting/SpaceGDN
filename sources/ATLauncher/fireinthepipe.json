@@ -17,6 +17,11 @@
                     "version": "2.3.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_232.zip",
                     "build": 232
+                },
+                {
+                    "version": "2.3.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/FireInThePipe_233.zip",
+                    "build": 233
                 }
             ]
         }

@@ -12,6 +12,11 @@
                     "version": "1.3.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BeyondRealityDivergence_133Beta.zip",
                     "build": 1312
+                },
+                {
+                    "version": "1.3.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BeyondRealityDivergence_134Beta.zip",
+                    "build": 1313
                 }
             ]
         }

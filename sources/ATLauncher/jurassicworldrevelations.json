@@ -17,6 +17,11 @@
                     "version": "1.3.0-beta",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_1102130beta.zip",
                     "build": 3809
+                },
+                {
+                    "version": "1.3.2-beta",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/JurassicWorldRevelations_1102132beta.zip",
+                    "build": 3810
                 }
             ]
         }
