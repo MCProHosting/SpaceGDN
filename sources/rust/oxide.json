@@ -58,7 +58,11 @@
                     "version": "2.0.3804",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3804.zip",
                     "build": 203804
-                }
+                },
+                {
+                    "version": "Latest",
+                    "url": "https://github.com/OxideMod/Oxide/releases/download/latest/Oxide-Rust.zip",
+                    "build": 203805
             ]
         }
     ]
