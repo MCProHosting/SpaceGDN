@@ -27,6 +27,11 @@
                     "version": "4.3.0.3b",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_4303b.zip",
                     "build": 4303
+                },
+                {
+                    "version": "4.3.0.4-rc",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ResonantRise_4304rc.zip",
+                    "build": 4304
                 }
             ]
         }
