@@ -63,6 +63,7 @@
                     "version": "Latest",
                     "url": "https://github.com/OxideMod/Oxide/releases/download/latest/Oxide-Rust.zip",
                     "build": 203805
+                }
             ]
         }
     ]
