@@ -1,0 +1,20 @@
+{
+    "name": "factorio-seablock",
+    "site_url": "https://mods.factorio.com/mods/Trainwreck/SeaBlock",
+    "description": "Factorio SeaBlock Modpack",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "force",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Factorio/Factorio-SeaBlock.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}
