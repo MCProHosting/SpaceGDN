@@ -10,7 +10,7 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.0.0",
+                    "version": "0.16.x",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Factorio/Factorio-Experimental.zip",
                     "build": 1
                 }
