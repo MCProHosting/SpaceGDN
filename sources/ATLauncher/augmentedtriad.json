@@ -1,0 +1,19 @@
+{
+    "name": "augmentedtriad",
+    "site_url": "https://www.atlauncher.com/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+            	{
+                    "version": "0.9.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/AugmentedTriad_090.zip",
+                    "build": 90
+                }
+            ]
+        }
+    ]
+}
