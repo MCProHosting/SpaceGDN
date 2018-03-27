@@ -12,6 +12,11 @@
                     "version": "1.6.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ABitOfEverything_161.zip",
                     "build": 161
+                },
+                {
+                    "version": "1.6.1-fix",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ABitOfEverything_161fix.zip",
+                    "build": 162
                 }
             ]
         }
