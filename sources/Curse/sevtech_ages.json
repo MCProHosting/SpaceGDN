@@ -22,6 +22,11 @@
                     "version": "3.0.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SevTechAges_303.zip",
                     "build": 303
+                },
+                {
+                    "version": "3.0.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SevTechAges_304.zip",
+                    "build": 304
                 }
             ]
         }
