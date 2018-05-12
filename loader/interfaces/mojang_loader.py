@@ -1,9 +1,8 @@
-import urllib2, json, datetime, re
+import urllib, urllib2, json, datetime, re
 
 class loader_mojang:
 
 	url = 'https://launchermeta.mojang.com/mc/game/version_manifest.json'
-	download_url_base = 'https://s3.amazonaws.com/Minecraft.Download/versions/{0}/minecraft_server.{0}.jar'
 
 	def getJSON(self):
 		response = urllib2.urlopen(self.url)
@@ -20,17 +19,25 @@ class loader_mojang:
 		for build in data['versions']:
 			if build['type'] != channel['name']: continue
 
-			time = datetime.datetime.strptime(re.sub(r'\+[0-9]{2}:[0-9]{2}$', '', build['releaseTime']), '%Y-%m-%dT%H:%M:%S')
-			build_number = int(self.totimestamp(time))
+			res = json.loads(urllib2.urlopen(build["url"]).read())
 
-			if build_number <= last_build: continue
+            minecraft_version = None
+            # HACK: This is really really bad and needs to be fixed ASAP
+            if build["type"] == "release":
+                minecraft_version = int(res["id"].replace(".", ""))
+            else:
+                minecraft_version = res["id"]
+			if minecraft_version > 124:
+				time = datetime.datetime.strptime(re.sub(r'\+[0-9]{2}:[0-9]{2}$', '', build['releaseTime']), '%Y-%m-%dT%H:%M:%S')
+				build_number = int(self.totimestamp(time))
 
-			builds.append({
-				'version': build['id'],
-				'size': None,
-				'checksum': None,
-				'url': self.download_url_base.format(build['id']),
-				'build': build_number
-			})
+    			builds.append({
+    				'version': build['id'],
+    				'size': None,
+    				'checksum': None,
+    				'url': res["downloads"]["server"]["url"],
+                    'jar_name': 'minecraft_server.' + build['id'],
+    				'build': build_number
+    			})
 
 		return builds

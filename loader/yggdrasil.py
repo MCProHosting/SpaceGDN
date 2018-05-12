@@ -150,6 +150,8 @@ class Yggdrasil():
 	def download_file(self, data, mode):
 		URLdisassembled = urlparse(data['url'])
 		URLfilename, URLfile_ext = os.path.splitext(os.path.basename(URLdisassembled.path))
+		if data.get("jar_name", None):
+			URLfilename = data["jar_name"]
 		local_filename = 'gdn/static/cache/'+urllib.unquote(URLfilename).decode('utf8')+'Build'+str(data['build'])+URLfile_ext
 
 		if os.path.isfile(local_filename):
