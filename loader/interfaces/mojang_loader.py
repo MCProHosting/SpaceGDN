@@ -2,42 +2,42 @@ import urllib, urllib2, json, datetime, re
 
 class loader_mojang:
 
-	url = 'https://launchermeta.mojang.com/mc/game/version_manifest.json'
+    url = 'https://launchermeta.mojang.com/mc/game/version_manifest.json'
 
-	def getJSON(self):
-		response = urllib2.urlopen(self.url)
-		return json.loads(response.read())
+    def getJSON(self):
+        response = urllib2.urlopen(self.url)
+        return json.loads(response.read())
 
-	def totimestamp(self, dt, epoch=datetime.datetime(1970,1,1)):
-	    td = dt - epoch
-	    return (td.microseconds + (td.seconds + td.days * 24 * 3600) * 10**6) / 1e6 
+    def totimestamp(self, dt, epoch=datetime.datetime(1970,1,1)):
+        td = dt - epoch
+        return (td.microseconds + (td.seconds + td.days * 24 * 3600) * 10**6) / 1e6 
 
-	def load(self, channel, last_build):
-		data = self.getJSON()
+    def load(self, channel, last_build):
+        data = self.getJSON()
 
-		builds = []
-		for build in data['versions']:
-			if build['type'] != channel['name']: continue
+        builds = []
+        for build in data['versions']:
+            if build['type'] != channel['name']:
+                continue
 
-			res = json.loads(urllib2.urlopen(build["url"]).read())
-
+            res = json.loads(urllib2.urlopen(build["url"]).read())
             minecraft_version = None
             # HACK: This is really really bad and needs to be fixed ASAP
             if build["type"] == "release":
                 minecraft_version = int(res["id"].replace(".", ""))
             else:
                 minecraft_version = res["id"]
-			if minecraft_version > 124:
-				time = datetime.datetime.strptime(re.sub(r'\+[0-9]{2}:[0-9]{2}$', '', build['releaseTime']), '%Y-%m-%dT%H:%M:%S')
-				build_number = int(self.totimestamp(time))
+            if minecraft_version > 124:
+                time = datetime.datetime.strptime(re.sub(r'\+[0-9]{2}:[0-9]{2}$', '', build['releaseTime']), '%Y-%m-%dT%H:%M:%S')
+                build_number = int(self.totimestamp(time))
 
-    			builds.append({
-    				'version': build['id'],
-    				'size': None,
-    				'checksum': None,
-    				'url': res["downloads"]["server"]["url"],
+                builds.append({
+                    'version': build['id'],
+                    'size': None,
+                    'checksum': None,
+                    'url': res["downloads"]["server"]["url"],
                     'jar_name': 'minecraft_server.' + build['id'],
-    				'build': build_number
-    			})
+                    'build': build_number
+                })
 
-		return builds
+        return builds
