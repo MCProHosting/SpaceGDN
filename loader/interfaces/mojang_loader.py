@@ -27,7 +27,7 @@ class loader_mojang:
                 minecraft_version = int(res["id"].replace(".", ""))
             else:
                 minecraft_version = res["id"]
-            if minecraft_version > 124:
+            if minecraft_version > 178:
                 time = datetime.datetime.strptime(re.sub(r'\+[0-9]{2}:[0-9]{2}$', '', build['releaseTime']), '%Y-%m-%dT%H:%M:%S')
                 build_number = int(self.totimestamp(time))
 
