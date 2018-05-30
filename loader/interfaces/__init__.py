@@ -7,3 +7,4 @@ from pixelmon_loader import *
 from tekkit_loader import *
 from direct_loader import *
 from cauldron_loader import *
+from factorio_loader import *

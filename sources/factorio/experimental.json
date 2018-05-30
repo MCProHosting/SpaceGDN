@@ -1,6 +1,6 @@
 {
     "name": "factorio-experimental",
-    "site_url": "https://www.factorio.com//",
+    "site_url": "https://www.factorio.com/",
     "description": "The experimental branch of Factorio, a game in which you build and maintain factories. May be unstable - use at your own risk.",
     "channels": [
         {
