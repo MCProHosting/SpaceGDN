@@ -39,4 +39,4 @@ class loader_factorio:
 				"build": int(version.replace(".", ""))
 			})
 
-			return builds
+		return builds
