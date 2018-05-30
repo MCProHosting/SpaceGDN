@@ -4,17 +4,9 @@
     "description": "The experimental branch of Factorio, a game in which you build and maintain factories. May be unstable - use at your own risk.",
     "channels": [
         {
-            "name": "build",
-            "interface": "json",
-            "mode": "force",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "0.16.x",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Factorio/Factorio-Experimental.zip",
-                    "build": 1
-                }
-            ]
+            "name": "experimental",
+            "interface": "factorio",
+            "mirror": false
         }
     ]
 }

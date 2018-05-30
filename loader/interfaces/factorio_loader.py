@@ -3,7 +3,7 @@ from BeautifulSoup import BeautifulSoup
 import requests
 
 FACTORIO_URLS = {
-	"release": "https://factorio.com/download-headless",
+	"stable": "https://factorio.com/download-headless",
 	"experimental": "https://factorio.com/download-headless/experimental"
 }
 
@@ -14,29 +14,29 @@ class loader_factorio:
 	def load(self, channel, last_build):
 		builds = []
 
-		for branch, url in FACTORIO_URLS.iteritems():
-			print "Downloading %s" % branch
-			data = requests.get(url)
-			soup = BeautifulSoup(data.content)
+		url = FACTORIO_URLS[channel]
+		print "Downloading %s" % channel
+		data = requests.get(url)
+		soup = BeautifulSoup(data.content)
 
-			releases = soup.find("div", {"class": "container"})
-			for ul in releases.findAll("ul"):
-				element = ul.find("li").find("a", href=True)
-				if not element:
-					continue
+		releases = soup.find("div", {"class": "container"})
+		for ul in releases.findAll("ul"):
+			element = ul.find("li").find("a", href=True)
+			if not element:
+				continue
 
-				version = element["href"].split("/")[2]
+			version = element["href"].split("/")[2]
 
-				download = "%s%s" % (BASE, element["href"])
-				print version, download
-				builds.append({
-					"version": version,
-					"size": None,
-					"checksum": None,
-					"url": download,
-					"jar_name": "factorio." + version,
-					"jar_ext": "tar.gz".
-					"build": int(version.replace(".", ""))
-				})
+			download = "%s%s" % (BASE, element["href"])
+			print version, download
+			builds.append({
+				"version": version,
+				"size": None,
+				"checksum": None,
+				"url": download,
+				"jar_name": "factorio." + version,
+				"jar_ext": "tar.gz".
+				"build": int(version.replace(".", ""))
+			})
 
 			return builds

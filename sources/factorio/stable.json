@@ -1,20 +1,12 @@
 {
     "name": "factorio-stable",
-    "site_url": "https://www.factorio.com//",
+    "site_url": "https://www.factorio.com/",
     "description": "The stable branch of Factorio, a game in which you build and maintain factories.",
     "channels": [
         {
-            "name": "build",
-            "interface": "json",
-            "mode": "force",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "0.16.x",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Factorio/Factorio-Stable.zip",
-                    "build": 1
-                }
-            ]
+            "name": "stable",
+            "interface": "factorio",
+            "mirror": false
         }
     ]
 }
