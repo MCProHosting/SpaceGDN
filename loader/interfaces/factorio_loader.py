@@ -14,8 +14,8 @@ class loader_factorio:
 	def load(self, channel, last_build):
 		builds = []
 
-		url = FACTORIO_URLS[channel]
-		print "Downloading %s" % channel
+		url = FACTORIO_URLS[channel["name"]]
+		print "Downloading %s" % channel["name"]
 		data = requests.get(url)
 		soup = BeautifulSoup(data.content)
 
@@ -35,7 +35,7 @@ class loader_factorio:
 				"checksum": None,
 				"url": download,
 				"jar_name": "factorio." + version,
-				"jar_ext": "tar.gz".
+				"jar_ext": "tar.gz",
 				"build": int(version.replace(".", ""))
 			})
 
