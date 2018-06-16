@@ -37,6 +37,11 @@
                     "version": "1.4.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/PixelmonGenerations-1.10.2-1.4.1.zip",
                     "build": 514
+                },
+                {
+                    "version": "6.3.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/PixelmonReforged-1.12.2-6.3.1.zip",
+                    "build": 631
                 }
             ]
         }
