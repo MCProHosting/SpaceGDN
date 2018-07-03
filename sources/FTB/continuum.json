@@ -1,0 +1,19 @@
+{
+    "name": "continuum",
+    "site_url": "https://www.feed-the-beast.com/projects/ftb-continuum",
+    "description": "FTB Continuum is an expert style modpack packed with some of the latest tech mods by Feed the Beast!  Majority of the recipes and intended progression that you are used to has been changed.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.3.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Continuum-1.12.2-1.3.1.zip",
+                    "build": 131
+                }
+            ]
+        }
+    ]
+}

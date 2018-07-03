@@ -1,0 +1,19 @@
+{
+    "name": "modernskyblock3",
+    "site_url": "https://minecraft.curseforge.com/projects/modern-skyblock-3-departed",
+    "description": "Modern Skyblock 3 is the sequel to Modern Skyblock 2 (obviously :P). Modern Skyblock 2 was unique for that that it used Sky Resources for obtaining resources instead of Ex Nihilo, but since its release, a few other packs have used it, making Modern Skyblock 3 not unique for that. Modern Skyblock 3 is unique for another reason: Unlike almost every other pack that has a progression line, it doesn't have any recipe changes (besides for those fixing exploits and allowing a few mods to work). Instead, it's entire progression line is based around quests, hence it features 1k+ of them.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "3.4.1.4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/ModernSkyblock3-1.12.2-3.4.1.4.zip",
+                    "build": 3414
+                }
+            ]
+        }
+    ]
+}

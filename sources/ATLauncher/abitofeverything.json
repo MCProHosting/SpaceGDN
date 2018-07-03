@@ -22,6 +22,11 @@
                     "version": "1.7.5-R2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ABitOfEverything_175R2.zip",
                     "build": 175
+                },
+                {
+                    "version": "2.0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ABitOfEverything_202.zip",
+                    "build": 202
                 }
             ]
         }

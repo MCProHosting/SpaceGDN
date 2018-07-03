@@ -1,0 +1,24 @@
+{
+    "name": "allthemods3",
+    "site_url": "https://minecraft.curseforge.com/projects/all-the-mods-3",
+    "description": "All the mods started out as a private pack for just a few friends of mine that turned into something others wanted to play. It has all the basics that most ftb packs include but with a nice mix of some of the newer mods and also a few mods that make the game more interesting and harder such as Spice of Life, Bloodmoons, Infernal Mobs and Roguelike Dungeons.  The pack is constantly being updated and has a somewhat active curse chat if you want to find out more.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "5.9.7b",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods3_server-1.12.2-5.9.7b.zip",
+                    "build": 597
+                },
+                {
+                    "version": "5.9.8c",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods3-1.12.2-5.9.8c.zip",
+                    "build": 598
+                }
+            ]
+        }
+    ]
+}

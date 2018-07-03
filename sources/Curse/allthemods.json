@@ -37,11 +37,6 @@
                     "version": "4.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods_server-1.10.2-4.2.zip",
                     "build": 420
-                },
-                {
-                    "version": "5.9.7b",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods3_server-1.12.2-5.9.7b.zip",
-                    "build": 597
                 }
             ]
         }
