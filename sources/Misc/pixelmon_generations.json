@@ -1,0 +1,24 @@
+{
+    "name": "pixelmon_generations",
+    "site_url": "https://pixelmongenerations.com/",
+    "description": "Welcome to Pixelmon Generations. Pixelmon Generations is all about being dedicated to releasing new updates frequently with new features and bug fixes. Included, we have several Pixelmon Generations servers for you all to enjoy! We welcome all servers to run on Pixelmon Generations; the mod is maintained strictly for fun. Currently packed with hundreds of new Pokemon, plus numerous remodeled Pokemon. Our mod contains numerous new features such as Kyurem fusions, Primal Kyogre/Groudon, PC searching, and so much more. We hope you try us out and have loads of fun!",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.10.2-1.4.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/PixelmonGenerations-1.10.2-1.4.1.zip",
+                    "build": 141
+                },
+                {
+                    "version": "1.12.2-2.1.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/PixelmonGenerations-1.12.2-2.1.0.zip",
+                    "build": 210
+                }
+            ]
+        }
+    ]
+}
