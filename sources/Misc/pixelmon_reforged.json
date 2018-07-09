@@ -27,6 +27,11 @@
                     "version": "6.3.1",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/PixelmonReforged-1.12.2-6.3.1.zip",
                     "build": 631
+                },
+                {
+                    "version": "6.3.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/PixelmonReforged-1.12.2-6.3.2.zip",
+                    "build": 632
                 }
             ]
         }
