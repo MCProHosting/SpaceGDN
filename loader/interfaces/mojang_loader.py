@@ -1,4 +1,5 @@
 import urllib, urllib2, json, datetime, re
+from distutils.version import StrictVersion
 
 class loader_mojang:
 
@@ -21,13 +22,9 @@ class loader_mojang:
                 continue
 
             res = json.loads(urllib2.urlopen(build["url"]).read())
-            minecraft_version = None
+            minecraft_version = StrictVersion(res["id"])
             # HACK: This is really really bad and needs to be fixed ASAP
-            if build["type"] == "release":
-                minecraft_version = int(res["id"].replace(".", ""))
-            else:
-                minecraft_version = res["id"]
-            if minecraft_version > 178:
+            if minecraft_version > StrictVersion("1.7.8"):
                 time = datetime.datetime.strptime(re.sub(r'\+[0-9]{2}:[0-9]{2}$', '', build['releaseTime']), '%Y-%m-%dT%H:%M:%S')
                 build_number = int(self.totimestamp(time))
 
