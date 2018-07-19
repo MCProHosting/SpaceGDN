@@ -63,6 +63,7 @@ class loader_jenkins:
 				continue
 
 			build = self.create_build_data(build)
+			build["config"] = channel["config"]
 			if build:
 				builds.append(build)
 

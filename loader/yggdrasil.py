@@ -9,6 +9,7 @@ import hashlib
 import requests
 import os
 import imp
+import zipfile
 
 class Yggdrasil():
 	jars = {}
@@ -152,6 +153,8 @@ class Yggdrasil():
 		URLfilename, URLfile_ext = os.path.splitext(os.path.basename(URLdisassembled.path))
 		if data.get("jar_name", None):
 			URLfilename = data["jar_name"]
+
+		config_data = data.get("config", None)
 		local_filename = 'gdn/static/cache/'+urllib.unquote(URLfilename).decode('utf8')+'Build'+str(data['build'])+URLfile_ext
 
 		if os.path.isfile(local_filename):
@@ -173,12 +176,32 @@ class Yggdrasil():
 		# NOTE the stream=True parameter
 		print 'Downloading ' + data['url']
 		r = requests.get(data['url'], stream=True)
-		with open(local_filename_tmp, 'wb') as f:
+
+		result_name = local_filename_tmp if not config_data else "%s-run" % local_filename
+		with open(result_name, 'wb') as f:
 			for chunk in r.iter_content(chunk_size=1024): 
 				if chunk: # filter out keep-alive new chunks
 					f.write(chunk)
 					f.flush()
+		
+		# Download the config if needed
+		if config_data:
+			r = requests.get(config_data[data["version"]])
+			config_name ="%s-config" % local_filename
+			with open(config_name, 'wb') as f:
+				for chunk in r.iter_content(chunk_size=1024): 
+					if chunk: # filter out keep-alive new chunks
+						f.write(chunk)
+						f.flush()
+			# Create a zip containing the two files.
+			zip_file = zipfile.ZipFile("%s.zip" % local_filename)
+			
+			zip_file.write(config_name)
+			zip_file.write(result_name)
+			
+			zip_file.close()
+			return local_filename
 
-		os.rename(local_filename_tmp, local_filename)
+		os.rename(result_name, local_filename)
 
 		return local_filename
