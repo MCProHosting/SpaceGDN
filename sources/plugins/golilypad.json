@@ -13,6 +13,11 @@
                     "version": "Build #163",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/GoLilyPad/GoLilyPad-163.zip",
                     "build": 163
+                },
+                {
+                    "version": "Build #174",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/GoLilyPad/GoLilyPad-174.zip",
+                    "build": 174
                 }
             ]
         }
