@@ -1,0 +1,19 @@
+{
+    "name": "spaceastronomy2",
+    "site_url": "https://minecraft.curseforge.com/projects/space-astronomy-2",
+    "description": "Space Astronomy 2 is a space based modpack, that include loads of the latest teoch and space mods. Explore the Universe with the help of the provided achievement bookt that will lead you around and that required steps that you will need to take.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.5.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SpaceAstronomy2-1.10.2-1.5.3.zip",
+                    "build": 153
+                }
+            ]
+        }
+    ]
+}
