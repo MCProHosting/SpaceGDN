@@ -1,0 +1,19 @@
+{
+    "name": "crazyminecraft",
+    "site_url": "http://test.voidswrath.com/modpacks/crazy-minecraft/",
+    "description": "The Crazy Minecraft mod pack is the perfect combination of all of our previous mod packs. If you could combine, voids wrath, jurassic craft and crazy craft you would get this beautiful mod pack right here!",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.1.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/CrazyMinecraft-1.7.10-1.1.2.zip",
+                    "build": 112
+                }
+            ]
+        }
+    ]
+}
