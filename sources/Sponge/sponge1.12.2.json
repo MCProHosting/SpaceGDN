@@ -1,0 +1,19 @@
+{
+    "name": "sponge112",
+    "site_url": "https://www.spongepowered.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "3361",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.12.2-2705-7.1.0-BETA-3361.zip",
+                    "build": 3361
+                }
+            ]
+        }
+    ]
+}
