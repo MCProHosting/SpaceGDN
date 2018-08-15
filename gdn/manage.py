@@ -1,5 +1,5 @@
-from flask.ext.script import Manager
-from flask.ext.migrate import MigrateCommand
+from flask_script import Manager
+from flask_migrate import MigrateCommand
 
 from models import *
 from . import app
@@ -10,7 +10,7 @@ manager.add_command('db', MigrateCommand)
 
 @manager.command
 def run():
-	from gevent.wsgi import WSGIServer
+	from gevent.pywsgi import WSGIServer
 
 	http_server = WSGIServer(('', app.config['HTTP_PORT']), app)
 	if app.config['DEBUG']:
