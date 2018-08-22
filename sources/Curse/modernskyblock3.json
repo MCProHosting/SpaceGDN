@@ -12,7 +12,12 @@
                     "version": "3.4.1.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/ModernSkyblock3-1.12.2-3.4.1.4.zip",
                     "build": 3414
-                }
+                },
+		{
+		    "version": "3.4.2",
+		    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/ModernSkyblock3-1.12.2-3.4.2.zip",
+		    "build": 3420
+		}
             ]
         }
     ]
