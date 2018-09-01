@@ -11,7 +11,7 @@
             "releases": [
                 {
                     "version": "Latest",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine-MP/PocketMine-MP.phar",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine-MP/PocketMine-MP.zip",
                     "build": 10001
                 }
             ]
