@@ -22,7 +22,10 @@ class loader_mojang:
                 continue
 
             res = json.loads(urllib2.urlopen(build["url"]).read())
-            minecraft_version = StrictVersion(res["id"])
+            try:
+                minecraft_version = StrictVersion(res["id"])
+            except:
+                continue
 
             if minecraft_version > StrictVersion("1.7.8"):
                 time = datetime.datetime.strptime(re.sub(r'\+[0-9]{2}:[0-9]{2}$', '', build['releaseTime']), '%Y-%m-%dT%H:%M:%S')
