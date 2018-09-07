@@ -10,11 +10,6 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "2.0.3965",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3965.zip",
-                    "build": 203681
-                },
-                {
                     "version": "2.0.3681",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3681.zip",
                     "build": 203681
@@ -73,6 +68,16 @@
                     "version": "2.0.3887",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3887.zip",
                     "build": 203855
+                },
+                {
+                    "version": "2.0.3965",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3965.zip",
+                    "build": 203681
+                },
+                {
+                    "version": "2.0.4025",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4025.zip",
+                    "build": 203682
                 }
             ]
         }
