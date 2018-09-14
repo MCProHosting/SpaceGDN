@@ -22,6 +22,11 @@
                     "version": "5.9.8d",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods3-1.12.2-5.9.8d.zip",
                     "build": 600
+                },
+                {
+                    "version": "5.10.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/AllTheMods3-1.12.2-5.10.0.zip",
+                    "build": 601
                 }
             ]
         }
