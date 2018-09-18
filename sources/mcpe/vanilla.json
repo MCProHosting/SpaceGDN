@@ -1,0 +1,20 @@
+{
+    "name": "mcpe-vanilla",
+    "site_url": "https://minecraft.net/en-us/download/server/bedrock/",
+    "description": "Vanilla Minecraft for Pocket Edition.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "force",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.6.1.0",
+                    "url": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.6.1.0.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}

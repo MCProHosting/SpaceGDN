@@ -10,3 +10,5 @@ pip install beautifulsoup4
 pip install lxml
 pip install flask_migrate
 pip install pymysql
+
+yum install MySQL-python
