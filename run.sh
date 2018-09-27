@@ -1,2 +1,2 @@
 #!/bin/sh
-screen -dmS SpaceGDN /usr/local/bin/python2.7 run.py run
+screen -dmS SpaceGDN python run.py run
