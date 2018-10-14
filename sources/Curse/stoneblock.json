@@ -1,0 +1,19 @@
+{
+    "name": "stoneblock",
+    "site_url": "https://minecraft.curseforge.com/projects/stoneblock",
+    "description": "This modpack is kinda like SkyBlock, except you don't start with a tree and you're surrounded by stone. It´s a kitchen-sink modpack with lots of quests to help guide you in the start and to give the players goals to reach.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.21",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Stoneblock_server-1.12.2-1.0.21.zip",
+                    "build": 1021
+                }
+            ]
+        }
+    ]
+}
