@@ -42,6 +42,11 @@
                     "version": "14.23.5.2768",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.12.2-14.23.5.2768-universal.zip",
                     "build": 2768
+                },
+                {
+                    "version": "14.23.5.2770",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.12.2-14.23.5.2770-universal.zip",
+                    "build": 2770
                 }
             ]
         }
