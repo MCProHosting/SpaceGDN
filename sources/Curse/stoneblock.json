@@ -12,6 +12,11 @@
                     "version": "1.0.21",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Stoneblock_server-1.12.2-1.0.21.zip",
                     "build": 1021
+                },
+                {
+                    "version": "1.0.22",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Stoneblock_server-1.12.2-1.0.22.zip",
+                    "build": 1022
                 }
             ]
         }
