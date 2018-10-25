@@ -22,12 +22,15 @@ class loader_mojang:
                 continue
 
             res = json.loads(urllib2.urlopen(build["url"]).read())
-            try:
-                minecraft_version = StrictVersion(res["id"])
-            except:
-                continue
+            # We only need to check this version if this is NOT a snapshot.
+            is_snapshot = channel["name"] == "snapshot"
+            if not is_snapshot:
+                try:
+                    minecraft_version = StrictVersion(res["id"])
+                except:
+                    continue
 
-            if minecraft_version > StrictVersion("1.7.8"):
+            if (not is_snapshot and minecraft_version > StrictVersion("1.7.8")) or is_snapshot:
                 time = datetime.datetime.strptime(re.sub(r'\+[0-9]{2}:[0-9]{2}$', '', build['releaseTime']), '%Y-%m-%dT%H:%M:%S')
                 build_number = int(self.to_timestamp(time))
 

@@ -1,0 +1,19 @@
+{
+    "name": "amps",
+    "site_url": "https://www.technicpack.net/modpack/amps-feel-the-power.1074483",
+    "description": "Amps is a custom modpack based highly off of technic's modpack, Voltz. Activate forcefields, arm your turrets, fire missiles, and protect your base at all costs in one of the most amazing modpacks of science and destruction, Amps. Feel the Power!",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "3.1.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/Amps_server-1.7.10-3.1.1.zip",
+                    "build": 311
+                }
+            ]
+        }
+    ]
+}
