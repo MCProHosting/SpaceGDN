@@ -10,6 +10,11 @@
             "mirror": true,
             "releases": [
                 {
+                    "version": "1.7.0.13",
+                    "url": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.7.0.13.zip",
+                    "build": 2
+                },
+                {
                     "version": "1.6.1.0",
                     "url": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.6.1.0.zip",
                     "build": 1
