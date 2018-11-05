@@ -1,0 +1,19 @@
+{
+    "name": "skyadventures",
+    "site_url": "https://www.feed-the-beast.com/projects/ftb-sky-adventures",
+    "description": "FTB Sky Adventures is a large 1.12 modpack with a mix of tech and magic mods using a new questing system, FTB Quests.  This pack is centered around Project-E for resource gathering after acquiring your raw resources with Ex Nihilo in early game.  Quests are not forced progression so the route you take is up to you.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.2.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/SkyAdventures-1.12.2-1.2.1.zip",
+                    "build": 121
+                }
+            ]
+        }
+    ]
+}
