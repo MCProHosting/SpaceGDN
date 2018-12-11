@@ -13,6 +13,11 @@
                     "version": "Prison 1.12.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Prison/Prison.Build1.zip",
                     "build": 1
+                },
+                {
+                    "version": "Prison 1.13.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Prison/Prison.Build2.zip",
+                    "build": 2
                 }
             ]
         }
