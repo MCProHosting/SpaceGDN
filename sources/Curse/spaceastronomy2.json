@@ -12,6 +12,11 @@
                     "version": "1.5.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SpaceAstronomy2-1.10.2-1.5.3.zip",
                     "build": 153
+                },
+                {
+                    "version": "1.5.5",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SpaceAstronomy2-1.10.2-1.5.5.zip",
+                    "build": 155
                 }
             ]
         }
