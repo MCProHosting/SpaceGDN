@@ -32,6 +32,11 @@
                     "version": "1.5.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FoolCraft3_server-1.12.2-1.5.4.zip",
                     "build": 268
+                },
+                {                    
+                    "version": "1.6",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/FoolCraft3_server-1.12.2-1.6.zip",
+                    "build": 269
                 }
             ]
         }
