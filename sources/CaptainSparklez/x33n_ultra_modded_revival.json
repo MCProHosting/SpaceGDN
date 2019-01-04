@@ -1,0 +1,19 @@
+{
+    "name": "x33n_ultra_modded_revival",
+    "site_url": "",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CaptainSparklez/X33NUltraModdedSurvival-1.7.10-1.0.0.zip",
+                    "build": 100
+                }
+            ]
+        }
+    ]
+}
