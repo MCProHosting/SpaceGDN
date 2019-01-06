@@ -32,6 +32,11 @@
                     "version": "2.0.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ABitOfEverything_203.zip",
                     "build": 203
+                },
+                {
+                    "version": "3.0.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/ABitOfEverything_303.zip",
+                    "build": 303
                 }
             ]
         }
