@@ -1,0 +1,19 @@
+{
+    "name": "stoneblock2",
+    "site_url": "https://www.feed-the-beast.com/projects/ftb-presents-stoneblock-2",
+    "description": "The Stoneblock you like, now just even better then before! New mods, new dimensions, and new bosses!",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.1.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Stoneblock2-1.12.2-1.1.1.zip",
+                    "build": 111
+                }
+            ]
+        }
+    ]
+}
