@@ -9,14 +9,14 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "1.0.1",
+                    "version": "1.0.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/CaptainSparklez/X33NUltraModdedSurvival-1.7.10-1.0.1.zip",
-                    "build": 101
+                    "build": 102
                 },
                 {
-                    "version": "1.0.0",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CaptainSparklez/X33NUltraModdedSurvival-1.7.10-1.0.0.zip",
-                    "build": 100
+                    "version": "1.0.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CaptainSparklez/X33NUltraModdedSurvival-1.7.10-1.0.1.zip",
+                    "build": 103
                 }
             ]
         }
