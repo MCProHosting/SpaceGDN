@@ -13,6 +13,11 @@
                     "version": "Latest",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/PocketMine-MP/PocketMine-MP.zip",
                     "build": 10001
+                },
+                {
+                    "version": "3.5.7",
+                    "url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.5.7/PocketMine-MP.phar",
+                    "build": 10002
                 }
             ]
         }
