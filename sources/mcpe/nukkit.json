@@ -5,7 +5,7 @@
     "channels": [
         {
             "name": "build",
-            "interface": "json",
+            "interface": "json", 
             "mode": "force",
             "mirror": true,
             "releases": [
@@ -13,6 +13,11 @@
                     "version": "1.0.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/MCPE/Nukkit/Nukkit-1.0.zip",
                     "build": 1
+                },
+                {
+                    "version": "1.0.0-252",
+                    "url": "https://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/master/252/artifact/target/nukkit-1.0-SNAPSHOT.jar",
+                    "build": 252
                 }
             ]
         }
