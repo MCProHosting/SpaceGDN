@@ -5,7 +5,7 @@
     "channels": [
         {
             "name": "build",
-            "interface": "json",
+            "interface": "json", 
             "mode": "force",
             "mirror": true,
             "releases": [
@@ -23,6 +23,11 @@
                     "version": "3.5.8",
                     "url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.5.8/PocketMine-MP.phar",
                     "build": 10003
+                },
+                {
+                    "version": "3.5.9",
+                    "url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.5.9/PocketMine-MP.phar",
+                    "build": 10004
                 }
             ]
         }
