@@ -18,6 +18,11 @@
                     "version": "1.0.0-252",
                     "url": "https://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/master/252/artifact/target/nukkit-1.0-SNAPSHOT.jar",
                     "build": 252
+                },
+                {
+                    "version": "1.0.0-253",
+                    "url": "https://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/master/253/artifact/target/nukkit-1.0-SNAPSHOT.jar",
+                    "build": 253
                 }
             ]
         }
