@@ -17,6 +17,11 @@
                     "version": "7.1.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.12.2-2768-7.1.4.zip",
                     "build": 3362
+                },
+                {
+                    "version": "7.1.5",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.12.2-2768-7.1.5.zip",
+                    "build": 3363
                 }
             ]
         }
