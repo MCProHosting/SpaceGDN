@@ -1,0 +1,14 @@
+{
+    "name": "mcph-expanded-vanilla",
+    "site_url": "https://minecraft.curseforge.com/projects/mcprohosting-presents-expanded-vanilla",
+    "description": "Introducing the Expanded Vanilla modpack by MCProHosting! This modpack has been assembled for players new to modded Minecraft, with just the right amount of content mixed in to create a refreshed experience without changing core gameplay mechanics.",
+    "channels": [
+       {
+            "name": "mcph-expanded-vanilla",
+            "interface": "direct",
+            "mirror": false,
+            "url" : "https://s3.amazonaws.com/MCProHosting-Misc/MCPH_Modpacks/MCProHostingPresentsExpandedVanilla_server-1.12.2-1.0.0.zip",
+            "version" : "1.0.0"
+        }
+    ]
+}
