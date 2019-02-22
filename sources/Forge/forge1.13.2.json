@@ -1,0 +1,19 @@
+{
+    "name": "forge1132",
+    "site_url": "http://files.minecraftforge.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "25.0.48",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/forge-1.13.2-25.0.48.zip",
+                    "build": 48
+                }
+            ]
+        }
+    ]
+}
