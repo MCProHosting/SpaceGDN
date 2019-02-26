@@ -1,0 +1,19 @@
+{
+    "name": "enigmatica2",
+    "site_url": "https://minecraft.curseforge.com/projects/enigmatica2",
+    "description": "An All-purpose Modpack for Minecraft 1.12.2!",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.59",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Enigmatica2-1.59.zip",
+                    "build": 159
+                }
+            ]
+        }
+    ]
+}

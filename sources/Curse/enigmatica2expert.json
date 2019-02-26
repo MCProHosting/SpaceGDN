@@ -1,0 +1,19 @@
+{
+    "name": "enigmatica2expert",
+    "site_url": "https://minecraft.curseforge.com/projects/enigmatica2expert",
+    "description": "An Expert Questing Modpack for Minecraft 1.12.2!",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.56",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Enigmatica2Expert-1.56.zip",
+                    "build": 156
+                }
+            ]
+        }
+    ]
+}

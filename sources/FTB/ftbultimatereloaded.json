@@ -1,0 +1,19 @@
+{
+    "name": "ftbultimatereloaded",
+    "site_url": "https://www.feed-the-beast.com/projects/ftb-ultimate-reloaded/",
+    "description": "FTB Ultimate Reloaded is one of our lighter 1.12.2 modpacks based around the original Ultimate that was released on Minecraft  1.4.7 over 5 years ago.  Ultimate was one of FTB’s largest and popular modpacks of its time and players spent months making large factories, farms, railcraft rail networks and getting their feet wet with magic in Thaumcraft.  Fast forward to 2019 and the FTB Team has remastered Ultimate in a 1.12.2 modpack named Ultimate Reloaded.  ",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.2.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/FTBUltimate-Reloaded-1.2.0.zip",
+                    "build": 120
+                }
+            ]
+        }
+    ]
+}

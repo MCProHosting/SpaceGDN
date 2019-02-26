@@ -1,0 +1,19 @@
+{
+    "name": "enigmatica2skyblock",
+    "site_url": "https://minecraft.curseforge.com/projects/enigmatica2expertskyblock",
+    "description": "A modification on Enigmatica 2 Expert, to bring it to Skyblock!",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.24",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Enigmatica2ExpertSkyblock-1.24.zip",
+                    "build": 124
+                }
+            ]
+        }
+    ]
+}

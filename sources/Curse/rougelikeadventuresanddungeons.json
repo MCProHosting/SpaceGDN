@@ -1,0 +1,19 @@
+{
+    "name": "rougelikeadventuresanddungeons",
+    "site_url": "https://minecraft.curseforge.com/projects/roguelike-adventures-and-dungeons",
+    "description": "Do you like roguelike dungeon crawling games? Or exploring Minecraft world for dungeons and structures for loot? Tired of all that tech stuff and just want more fun? Then this pack is for you. It is completely focused on adventuring and exploration, looting and fighting. Fight you way through the dungeons, improve your skills and gear, complete quests and conquer new undiscovered dangerous dimensions. There is no time to relax because as you grow stronger, gathering better equipment mobs will also gain health and becomes stronger!",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.22",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/RougelikeAdventuresAndDungeons-1.22.zip",
+                    "build": 122
+                }
+            ]
+        }
+    ]
+}
