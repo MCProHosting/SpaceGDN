@@ -12,6 +12,11 @@
                     "version": "1.56",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Enigmatica2Expert-1.56.zip",
                     "build": 157
+                },
+                {
+                    "version": "1.57",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Enigmatica2Expert-1.57.zip",
+                    "build": 158
                 }
             ]
         }
