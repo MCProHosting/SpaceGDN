@@ -12,6 +12,11 @@
                     "version": "14",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Unabridged_1710Release14.zip",
                     "build": 15
+                },
+                {
+                    "version": "5.1.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/Unabridged_Unabridged5release1hotfix2.zip",
+                    "build": 16
                 }
             ]
         }
