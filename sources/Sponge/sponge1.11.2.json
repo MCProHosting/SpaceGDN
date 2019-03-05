@@ -12,6 +12,11 @@
                     "version": "2442",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.11.2-2393-6.1.0-BETA-2442.zip",
                     "build": 2442
+                },
+                {
+                    "version": "2792",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Sponge/spongeforge-1.11.2-2476-6.1.0-BETA-2792.zip",
+                    "build": 2792
                 }
             ]
         }
