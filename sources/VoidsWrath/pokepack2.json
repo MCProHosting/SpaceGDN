@@ -4,16 +4,11 @@
     "description": "",
     "channels": [
         {
-            "name": "build",
-            "interface": "json",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "2.0.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/PokePack_2.0.1.zip",
-                    "build": 107
-                }
-            ]
+            "name": "pokepack",
+            "interface": "direct",
+            "mirror": false,
+            "url" : "https://s3.amazonaws.com/MCProHosting-Misc/VoidsWrath/PokePack_2.0.1.zip",
+            "version" : "2.0.1"
         }
     ]
 }
