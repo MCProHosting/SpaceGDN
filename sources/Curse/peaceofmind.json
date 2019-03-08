@@ -1,0 +1,19 @@
+{
+    "name": "peaceofmind",
+    "site_url": "https://minecraft.curseforge.com/projects/peace-of-mind",
+    "description": "A Quest Based, Beginner Friendly Modpack designed for Peaceful Difficulty",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "2.0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/PeaceOfMind-1.12.2-2.0.2.zip",
+                    "build": 202
+                }
+            ]
+        }
+    ]
+}
