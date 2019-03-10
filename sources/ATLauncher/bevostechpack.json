@@ -14,9 +14,9 @@
                     "build": 230
                 },
                 {
-                    "version": "2.7.0",
+                    "version": "BTP-Reborn-Release_2.7.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/BevosTechPack_BTPRebornRelease270.zip",
-                    "build": 270
+                    "build": 271
                 }
             ]
         }

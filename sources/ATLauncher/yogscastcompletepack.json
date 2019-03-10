@@ -9,9 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "2.9.3.4",
+                    "version": "2.9.3.4-RR-YOGS",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/YogscastCompletePack_2934RRYOGS.zip",
-                    "build": 2934
+                    "build": 2935
                 }
             ]
         }

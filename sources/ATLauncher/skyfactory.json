@@ -9,9 +9,9 @@
             "mirror": true,
             "releases": [
                 {
-                    "version": "2.4.0",
+                    "version": "2.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/SkyFactory_24.zip",
-                    "build": 242
+                    "build": 243
                 }
             ]
         }
