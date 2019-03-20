@@ -1,0 +1,20 @@
+{
+    "name": "rpg-plugin-pack",
+    "site_url": "https://mcprohosting.com",
+    "description": "MCProHosting Plugin Packs",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mode": "last-modified",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "RPG Plugins 1.13.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/RPG/RPG_PluginPackv2_1.13.2.zip",
+                    "build": 1
+                }
+            ]
+        }
+    ]
+}
