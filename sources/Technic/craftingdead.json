@@ -1,0 +1,19 @@
+{
+    "name": "officialcraftingdead",
+    "site_url": "https://www.technicpack.net/modpack/official-crafting-dead-mod.41792",
+    "description": "Crafting Dead is a Multiplayer based mod that puts you into a Zombie Apocalypse. Look for loot, craft base parts and fend off endless masses of zombies.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.2.7",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/OfficialCraftingDead-1.6.4-1.2.7.zip",
+                    "build": 127
+                }
+            ]
+        }
+    ]
+}
