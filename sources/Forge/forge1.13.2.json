@@ -27,6 +27,11 @@
                     "version": "25.0.85",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/1.13.2/forge-1.13.2-25.0.85.zip",
                     "build": 85
+                },
+                {
+                    "version": "25.0.95",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/1.13.2/forge-1.13.2-25.0.95.zip",
+                    "build": 95
                 }
             ]
         }
