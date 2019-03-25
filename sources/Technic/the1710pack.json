@@ -1,0 +1,19 @@
+{
+    "name": "the1710pack",
+    "site_url": "https://www.technicpack.net/modpack/the-1710-pack.453902",
+    "description": "The 1.7.10 Pack brings what others failed to bring; what you've always wanted - and with the best collection of mods. The world is yours, and you can do whatever you want with it.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "0.9.8b",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/The1710Pack-1.7.10-0.9.8b.zip",
+                    "build": 98
+                }
+            ]
+        }
+    ]
+}
