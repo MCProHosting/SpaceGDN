@@ -1,0 +1,19 @@
+{
+    "name": "skyodyssey",
+    "site_url": "https://www.feed-the-beast.com/projects/ftb-sky-odyssey",
+    "description": "Sky Odyssey introduces a unique take on the Sky Block genre. With several new custom mods, you can now generate power and EMC to levels never seen before to aid you in the opening a portal to Dimension X.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.0.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/SkyOdyssey-1.12.2-1.0.0.zip",
+                    "build": 100
+                }
+            ]
+        }
+    ]
+}
