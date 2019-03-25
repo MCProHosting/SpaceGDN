@@ -27,6 +27,11 @@
                     "version": "0.10.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/IndustrialBox_0100.zip",
                     "build": 10
+                },
+                {
+                    "version": "0.11.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/IndustrialBox_0110.zip",
+                    "build": 11
                 }
             ]
         }
