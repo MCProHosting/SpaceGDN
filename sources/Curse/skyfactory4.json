@@ -1,0 +1,19 @@
+{
+    "name": "skyfactory4",
+    "site_url": "https://minecraft.curseforge.com/projects/skyfactory-4",
+    "description": "Back again for more modded skyblock fun! SkyFactory 4 offers a brand-new experience never before seen in the series. Full automation, tech, magic, and bacon resources! This iteration offers over 30+ world types so you can play the pack like never before! While some world types are based on the classic tree on dirt others are designed with unique recipes and advancements.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "4.0.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SkyFactory4-1.12.2-4.0.2.zip",
+                    "build": 402
+                }
+            ]
+        }
+    ]
+}
