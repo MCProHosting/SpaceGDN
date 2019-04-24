@@ -33,6 +33,11 @@
                     "version": "1.0.0-312",
                     "url": "https://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/master/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar",
                     "build": 312
+                },
+                {
+                    "version": "1.0.0-357",
+                    "url": "https://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/master/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar",
+                    "build": 357
                 }
             ]
         }
