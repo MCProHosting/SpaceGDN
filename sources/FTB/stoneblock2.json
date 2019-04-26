@@ -57,6 +57,11 @@
                     "version": "1.10.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Stoneblock2-1.12.2-1.10.0.zip",
                     "build": 191
+                },
+                {
+                    "version": "1.11.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Stoneblock2-1.12.2-1.11.0.zip",
+                    "build": 192
                 }
             ]
         }
