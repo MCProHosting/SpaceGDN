@@ -17,6 +17,11 @@
                     "version": "4.0.3",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SkyFactory4-1.12.2-4.0.3.zip",
                     "build": 404
+                },
+                {
+                    "version": "4.0.5",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SkyFactory4-1.12.2-4.0.5.zip",
+                    "build": 405
                 }
             ]
         }
