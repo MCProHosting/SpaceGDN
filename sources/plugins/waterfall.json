@@ -1,0 +1,19 @@
+{
+    "name": "waterfall",
+    "site_url": "https://papermc.io/downloads#Waterfall",
+    "description": "PaperMC's fork of the BungeeCord software, with improved Forge support and more features.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.14",
+                    "url": "https://papermc.io/api/v1/waterfall/1.14/282/download",
+                    "build": 114001
+                }
+            ]
+        }
+    ]
+}
