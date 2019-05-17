@@ -76,8 +76,8 @@
                 },
                 {
                     "version": "1.14.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot-1.14.1.jar",
-                    "build": 114100
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/spigot-1.14.1.jar",
+                    "build": 114101
                 }
             ]
         }
