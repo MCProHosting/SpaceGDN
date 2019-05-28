@@ -82,7 +82,7 @@
                 {
                     "version": "1.14.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/spigot-1.14.2.jar",
-                    "build": 114200
+                    "build": 114201
                 }
             ]
         }
