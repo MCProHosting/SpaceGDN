@@ -12,6 +12,11 @@
                     "version": "1.2.7",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/OfficialCraftingDead-1.6.4-1.2.7.zip",
                     "build": 127
+                },
+                {
+                    "version": "1.2.8B4",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/OfficialCraftingDead-1.6.4-1.2.8B4.zip",
+                    "build": 128
                 }
             ]
         }
