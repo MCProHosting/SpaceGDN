@@ -33,6 +33,11 @@
                     "version": "PvP Plugins 1.13.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/PvP/PvP.Build5.zip",
                     "build": 5
+                },
+                {
+                    "version": "PvP Plugins 1.14.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/PvP/PvP.Build6.zip",
+                    "build": 6
                 }
             ]
         }
