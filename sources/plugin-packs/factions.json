@@ -23,6 +23,16 @@
                     "version": "Factions 1.12.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build3.zip",
                     "build": 3
+                },
+                {
+                    "version": "Factions 1.13.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build4.zip",
+                    "build": 4
+                },
+                {
+                    "version": "Factions 1.14.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build5.zip",
+                    "build": 5
                 }
             ]
         }
