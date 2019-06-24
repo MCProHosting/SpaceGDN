@@ -28,6 +28,11 @@
                     "version": "Towny 1.13.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Towny/Towny.Build4.zip",
                     "build": 4
+                },
+                {
+                    "version": "Towny 1.14.2",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Towny/Towny.Build5.zip",
+                    "build": 5
                 }
             ]
         }
