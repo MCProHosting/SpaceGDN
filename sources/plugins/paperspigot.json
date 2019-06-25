@@ -73,6 +73,11 @@
                     "version": "1.14.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.14.2.jar",
                     "build": 1142058
+                },
+                {
+                    "version": "1.14.3",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PaperSpigot/PaperSpigot-1.14.3.jar",
+                    "build": 1143108
                 }
             ]
         }
