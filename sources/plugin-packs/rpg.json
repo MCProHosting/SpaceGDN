@@ -13,11 +13,6 @@
                     "version": "RPG Plugins 1.13.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/RPG/RPG_PluginPackv2_1.13.2.zip",
                     "build": 1
-                },
-                {
-                    "version": "RPG Plugins 1.14.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/RPG/RPG.Build2.zip",
-                    "build": 2
                 }
             ]
         }
