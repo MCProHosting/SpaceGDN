@@ -78,6 +78,11 @@
                     "version": "3.8.2",
                     "url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.8.2/PocketMine-MP.phar",
                     "build": 10014
+                },
+                {
+                    "version": "3.8.5",
+                    "url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.8.5/PocketMine-MP.phar",
+                    "build": 10015
                 }
             ]
         }
