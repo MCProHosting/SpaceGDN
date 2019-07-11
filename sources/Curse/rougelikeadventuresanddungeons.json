@@ -22,6 +22,11 @@
                     "version": "1.24",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/RougelikeAdventuresAndDungeons-1.12.2-1.24.zip",
                     "build": 125
+                },
+                {
+                    "version": "1.27fix",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/RoguelikeAdventuresAndDungeons-1.12.2-1.27fix.zip",
+                    "build": 127
                 }
             ]
         }
