@@ -37,6 +37,11 @@
                     "version": "1.65a",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Enigmatica2-1.12.2-1.65a.zip",
                     "build": 166
+                },
+                {
+                    "version": "1.65a",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Enigmatica2-1.12.2-1.65a.zip",
+                    "build": 166
                 }
             ]
         }
