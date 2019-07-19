@@ -1,90 +1,90 @@
 {
-    "name": "bukkit",
-    "site_url": "http://dl.bukkit.org/downloads/craftbukkit/",
-    "description": "CraftBukkit is The Minecraft Server Mod API Implementation.",
-    "channels": [
+  "name": "bukkit",
+  "site_url": "http://dl.bukkit.org/downloads/craftbukkit/",
+  "description": "CraftBukkit is The Minecraft Server Mod API Implementation.",
+  "channels": [
+    {
+      "name": "build",
+      "interface": "json",
+      "mode": "force",
+      "mirror": true,
+      "releases": [
         {
-            "name": "build",
-            "interface": "json",
-            "mode": "force",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "1.8.8",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.8.8.jar",
-                    "build": 18800
-                },
-                {
-                    "version": "1.9.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.9.4.jar",
-                    "build": 19400
-                },
-                {
-                    "version": "1.10.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.10.2.jar",
-                    "build": 110200
-                },
-                {
-                    "version": "1.11",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.11.jar",
-                    "build": 111000
-                },
-                {
-                    "version": "1.11.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.11.2.jar",
-                    "build": 111200
-                },
-                {
-                    "version": "1.12",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.12.jar",
-                    "build": 112000
-                },
-                {
-                    "version": "1.12.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.12.1.jar",
-                    "build": 112100
-                },
-                {
-                    "version": "1.12.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.12.2.jar",
-                    "build": 112201
-                },
-                {
-                    "version": "1.13",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.13.jar",
-                    "build": 113000
-                },
-                {
-                    "version": "1.13.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.13.1.jar",
-                    "build": 113100
-                },
-                {
-                    "version": "1.13.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.13.2.jar",
-                    "build": 113205
-                },
-                {
-                    "version": "1.14",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.14.jar",
-                    "build": 114006
-                },
-                {
-                    "version": "1.14.1",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/craftbukkit-1.14.1-R0.1-SNAPSHOT.jar",
-                    "build": 114103
-                },
-                {
-                    "version": "1.14.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/craftbukkit-1.14.2-R0.1-SNAPSHOT.jar",
-                    "build": 114203
-                },
-                {
-                    "version": "1.14.3",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/craftbukkit-1.14.3-R0.1-SNAPSHOT.jar",
-                    "build": 114302
-                }
-            ]
+          "version": "1.8.8",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.8.8.jar",
+          "build": 18800
+        },
+        {
+          "version": "1.9.4",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.9.4.jar",
+          "build": 19400
+        },
+        {
+          "version": "1.10.2",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.10.2.jar",
+          "build": 110200
+        },
+        {
+          "version": "1.11",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.11.jar",
+          "build": 111000
+        },
+        {
+          "version": "1.11.2",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.11.2.jar",
+          "build": 111200
+        },
+        {
+          "version": "1.12",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.12.jar",
+          "build": 112000
+        },
+        {
+          "version": "1.12.1",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.12.1.jar",
+          "build": 112100
+        },
+        {
+          "version": "1.12.2",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.12.2.jar",
+          "build": 112201
+        },
+        {
+          "version": "1.13",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.13.jar",
+          "build": 113000
+        },
+        {
+          "version": "1.13.1",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.13.1.jar",
+          "build": 113100
+        },
+        {
+          "version": "1.13.2",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.13.2.jar",
+          "build": 113205
+        },
+        {
+          "version": "1.14",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/CraftBukkit-1.14.jar",
+          "build": 114006
+        },
+        {
+          "version": "1.14.1",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/craftbukkit-1.14.1-R0.1-SNAPSHOT.jar",
+          "build": 114103
+        },
+        {
+          "version": "1.14.2",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/craftbukkit-1.14.2-R0.1-SNAPSHOT.jar",
+          "build": 114203
+        },
+        {
+          "version": "1.14.3",
+          "url": "https://s3.amazonaws.com/MCProHosting-Misc/CraftBukkit/craftbukkit-1.14.3-R0.1-SNAPSHOT.jar",
+          "build": 114303
         }
-    ]
+      ]
+    }
+  ]
 }
