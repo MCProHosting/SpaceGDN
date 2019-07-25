@@ -17,6 +17,11 @@
                     "version": "3.0.40",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/ProjectOzone3-3.0.40.zip",
                     "build": 3040
+                },
+                {
+                    "version": "3.0.41",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/ProjectOzone3-1.12.2-3.0.41.zip",
+                    "build": 3041
                 }
             ]
         }
