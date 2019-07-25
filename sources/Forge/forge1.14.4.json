@@ -1,0 +1,19 @@
+{
+    "name": "forge1144",
+    "site_url": "http://files.minecraftforge.net/",
+    "description": "",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "28.0.14",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/1.14.4/1.14.4-28.0.14.zip",
+                    "build": 14
+                }
+            ]
+        }
+    ]
+}
