@@ -37,6 +37,11 @@
                     "version": "1.5.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Interactions-1.12.2-1.5.0.zip",
                     "build": 150
+                },
+                {
+                    "version": "1.9.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Interactions-1.12.2-1.9.1.zip",
+                    "build": 191
                 }
             ]
         }
