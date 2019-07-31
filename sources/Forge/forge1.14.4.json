@@ -12,6 +12,11 @@
                     "version": "28.0.14",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/1.14.4/1.14.4-28.0.14.zip",
                     "build": 14
+                },
+                {
+                    "version": "28.0.27",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Forge/1.14.4/forge-1.14.4-28.0.27.zip",
+                    "build": 27
                 }
             ]
         }
