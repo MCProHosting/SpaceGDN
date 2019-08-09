@@ -12,6 +12,11 @@
                     "version": "0.9.8b",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/The1710Pack-1.7.10-0.9.8b.zip",
                     "build": 98
+                },
+                {
+                    "version": "0.9.8c",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Technic/The1710Pack-1.7.10-0.9.8c.zip",
+                    "build": 99
                 }
             ]
         }
