@@ -12,6 +12,11 @@
                     "version": "5.5a",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/DungeonsDragonsAndSpaceShuttles-1.12.2-5.5a.zip",
                     "build": 55
+                },
+                {
+                    "version": "5.6a",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/DungeonsDragonsAndSpaceShuttles-1.12.2-5.6a.zip",
+                    "build": 56
                 }
             ]
         }
