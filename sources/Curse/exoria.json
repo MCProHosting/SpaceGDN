@@ -1,0 +1,19 @@
+{
+    "name": "exoria",
+    "site_url": "https://www.curseforge.com/minecraft/modpacks/exoria",
+    "description": "You're exiled to a volcanic planet with no Ore Generation, you have to work for your survival. Also the only connection to your home planet is a  Portal where you can trade for things because they are obligated to help you so you don't die. The end goal is to planet hop and eventually go back to your home planet.",
+    "channels": [
+        {
+            "name": "build",
+            "interface": "json",
+            "mirror": true,
+            "releases": [
+                {
+                    "version": "1.3.0c",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Exoria-1.12.2-1.3.0c.zip",
+                    "build": 130
+                }
+            ]
+        }
+    ]
+}
