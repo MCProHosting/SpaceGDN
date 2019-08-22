@@ -21,8 +21,8 @@
                 },
                 {
                     "version": "SkyBlock 1.14.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/SkyBlock/SkyBlock.Build3.zip",
-                    "build": 3
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/SkyBlock/Skyblock.Build3.zip",
+                    "build": 4
                 }
             ]
         }
