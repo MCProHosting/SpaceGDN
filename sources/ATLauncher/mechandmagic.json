@@ -82,6 +82,11 @@
                     "version": "3.0.19",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/MechMagic_3019.zip",
                     "build": 319
+                },
+                {
+                    "version": "3.1.1",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/MechMagic_311.zip",
+                    "build": 320
                 }
             ]
         }
