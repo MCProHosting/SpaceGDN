@@ -88,6 +88,11 @@
                     "version": "3.1.0",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Revelation-1.12.2-3.1.0.zip",
                     "build": 310
+                },
+                {
+                    "version": "3.2.0",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/FTB/Revelation-1.12.2-3.2.0.zip",
+                    "build": 320
                 }
             ]
         }
