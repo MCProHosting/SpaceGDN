@@ -223,6 +223,11 @@
                     "version": "2.0.4289",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4289.zip",
                     "build": 204289
+                },
+                {
+                    "version": "2.0.4300",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4300.zip",
+                    "build": 204300
                 }
             ]
         }
