@@ -26,17 +26,17 @@
                 },
                 {
                     "version": "Factions 1.13.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build4.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build4_v2.zip",
                     "build": 4
                 },
                 {
                     "version": "Factions 1.14.2",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build5.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build5_v2.zip",
                     "build": 5
                 },
                 {
                     "version": "Factions 1.14.4",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build6.zip",
+                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build6_v2.zip",
                     "build": 6
                 }
             ]
