@@ -63,6 +63,11 @@
                     "version": "1.0.0",
                     "url": "https://ci.nukkitx.com/job/NukkitX/job/Nukkit/job/bedrock-1.13/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar",
                     "build": 477
+                },
+                {
+                    "version": "1.0.0-1.13",
+                    "url": "https://mcph.gdn/nukkit/1.0_1.13.zip",
+                    "build": 48
                 }
             ]
         }
