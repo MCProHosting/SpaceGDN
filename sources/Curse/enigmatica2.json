@@ -42,6 +42,11 @@
                     "version": "1.68a",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/Enigmatica2-1.12.2-1.68a.zip",
                     "build": 168
+                },
+                {
+                    "version": "1.74b",
+                    "url": "https://mcph.gdn/curse/enigmatica2/1.74.tar.gz",
+                    "build": 170
                 }
             ]
         }
