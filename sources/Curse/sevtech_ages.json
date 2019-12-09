@@ -48,6 +48,11 @@
                     "version": "3.1.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/SevTechAges_312.zip",
                     "build": 312
+                },
+                {
+                    "version": "3.1.2_hotfix",
+                    "url": "https://mcph.gdn/curse/sevtechages/3.1.2_hotfix.zip",
+                    "build": 314
                 }
             ]
         }
