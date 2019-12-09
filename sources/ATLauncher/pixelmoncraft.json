@@ -82,6 +82,11 @@
                     "version": "Pixelmon-Reforged-7.0.7",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/ATLauncher/PixelmonCraft-1.12.2-7.0.7.zip",
                     "build": 707
+                },
+                {
+                    "version": "Pixelmon-Reforged-7.1.1",
+                    "url": "https://mcph.gdn/atlauncher/pixelmoncraft/7.1.1.zip",
+                    "build": 711
                 }
             ]
         }
