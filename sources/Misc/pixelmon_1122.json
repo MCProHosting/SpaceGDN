@@ -82,6 +82,11 @@
                     "version": "7.0.8",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Misc_Modpacks/PixelmonReforged-1.12.2-7.0.8.zip",
                     "build": 708
+                },
+                {
+                    "version": "7.1.1",
+                    "url": "https://mcph.gdn/curse/pixelmon/reforged/7.1.1.zip",
+                    "build": 710
                 }
             ]
         }
