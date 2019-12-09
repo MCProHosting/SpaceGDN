@@ -118,6 +118,11 @@
                     "version": "3.9.6",
                     "url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.9.6/PocketMine-MP.phar",
                     "build": 10022
+                },
+                {
+                    "version": "3.10.1",
+                    "url": "https://github.com/pmmp/PocketMine-MP/releases/download/3.10.1/PocketMine-MP.phar",
+                    "build": 10023
                 }
             ]
         }
