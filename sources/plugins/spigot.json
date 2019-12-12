@@ -97,7 +97,7 @@
         {
           "version": "1.15",
           "url": "https://s3.amazonaws.com/MCProHosting-Misc/Spigot/Spigot-1.15.jar",
-          "build": 115001
+          "build": 115002
         }
       ]
     }
