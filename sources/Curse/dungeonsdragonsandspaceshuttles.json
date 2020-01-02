@@ -22,6 +22,11 @@
                     "version": "6.2",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/Curse/DungeonsDragonsAndSpaceShuttles-1.12.2-6.2.zip",
                     "build": 62
+                },
+                {
+                    "version": "6.5",
+                    "url": "https://mcph.gdn/curse/dungeonsdragonsandspaceshuttles/6.5.tar.gz",
+                    "build": 65
                 }
             ]
         }
