@@ -48,6 +48,11 @@
                     "version": "Core Plugins 1.14.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Core/Core.Build8.zip",
                     "build": 8
+                },
+                {
+                    "version": "Core Plugins 1.15.2",
+                    "url": "https://mcph.gdn/pluginpacks/core/1.15.2.zip",
+                    "build": 9
                 }
             ]
         }
