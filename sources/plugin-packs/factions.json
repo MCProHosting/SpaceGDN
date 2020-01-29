@@ -38,6 +38,11 @@
                     "version": "Factions 1.14.4",
                     "url": "https://s3.amazonaws.com/MCProHosting-Misc/PluginPacks/Factions/Factions.Build6_v2.zip",
                     "build": 6
+                },
+                {
+                    "version": "Factions 1.15.2",
+                    "url": "https://mcph.gdn/pluginpacks/factions/1.15.2.zip",
+                    "build": 7
                 }
             ]
         }
