@@ -40,3 +40,5 @@ env
 node_modules
 config.py
 gdn/static/cache/*
+
+*.tmp
