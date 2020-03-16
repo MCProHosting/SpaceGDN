@@ -1,305 +1,303 @@
 {
-    "name": "oxide",
-    "site_url": "http://oxidemod.org",
-    "description": "Oxide server mod framework and API for Rust. Oxide is a complete rewrite of the popular, original Oxide mod for the game Rust.",
-    "channels": [
+    "name": "build",
+    "interface": "json",
+    "mode": "force",
+    "mirror": true,
+    "releases": [
         {
-            "name": "build",
-            "interface": "json",
-            "mode": "force",
-            "mirror": true,
-            "releases": [
-                {
-                    "version": "2.0.3681",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3681.zip",
-                    "build": 203681
-                },
-                {
-                    "version": "2.0.3393",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3393.zip",
-                    "build": 203393
-                },
-                {
-                    "version": "2.0.1939",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.1939.zip",
-                    "build": 201939
-                },
-                {
-                    "version": "2.0.3423",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3423.zip",
-                    "build": 203423
-                },
-                {
-                    "version": "2.0.3434",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3434.zip",
-                    "build": 203434
-                },
-                {
-                    "version": "2.0.3467",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3467.zip",
-                    "build": 203467
-                },
-                {
-                    "version": "2.0.3487",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3487.zip",
-                    "build": 203487
-                },
-                {
-                    "version": "2.0.3702",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3702.zip",
-                    "build": 203702
-                },
-                {
-                    "version": "2.0.3767",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3767.zip",
-                    "build": 203702
-                },
-                {
-                    "version": "2.0.3804",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3804.zip",
-                    "build": 203804
-                },
-                {
-                    "version": "2.0.3855",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3855.zip",
-                    "build": 203855
-                },
-                {
-                    "version": "2.0.3887",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3887.zip",
-                    "build": 203855
-                },
-                {
-                    "version": "2.0.3965",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3965.zip",
-                    "build": 203695
-                },
-                {
-                    "version": "2.0.4025",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4025.zip",
-                    "build": 204025
-                },
-                {
-                    "version": "2.0.4048",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4048.zip",
-                    "build": 204048
-                },
-                {
-                    "version": "2.0.4059",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4059.zip",
-                    "build": 204059
-                },
-                {
-                    "version": "2.0.4068",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4068.zip",
-                    "build": 204068
-                },
-                {
-                    "version": "2.0.4072",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4072.zip",
-                    "build": 204072
-                },
-                {
-                    "version": "2.0.4079",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4079.zip",
-                    "build": 204079
-                },
-                {
-                    "version": "2.0.4083",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4083.zip",
-                    "build": 204083
-                },
-                {
-                    "version": "2.0.4086",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4086.zip",
-                    "build": 204086
-                },
-                {
-                    "version": "2.0.4094",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4094.zip",
-                    "build": 204094
-                },
-                {
-                    "version": "2.0.4098",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4098.zip",
-                    "build": 204098
-                },
-                {
-                    "version": "2.0.4099",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4099.zip",
-                    "build": 204099
-                },
-                {
-                    "version": "2.0.4100",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4100.zip",
-                    "build": 204100
-                },
-                {
-                    "version": "2.0.4103",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4103.zip",
-                    "build": 204103
-                },
-                {
-                    "version": "2.0.4131",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4131.zip",
-                    "build": 204131
-                },
-                {
-                    "version": "2.0.4139",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4139.zip",
-                    "build": 204139
-                },
-                {
-                    "version": "2.0.4160",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4160.zip",
-                    "build": 204160
-                },
-                {
-                    "version": "2.0.4161",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4161.zip",
-                    "build": 204161
-                },
-                {
-                    "version": "2.0.4178",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4178.zip",
-                    "build": 204178
-                },
-                {
-                    "version": "2.0.4185",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4185.zip",
-                    "build": 204185
-                },
-                {
-                    "version": "2.0.4190",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4190.zip",
-                    "build": 204190
-                },
-                {
-                    "version": "2.0.4200",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4200.zip",
-                    "build": 204200
-                },
-                {
-                    "version": "2.0.4203",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4203.zip",
-                    "build": 204203
-                },
-                {
-                    "version": "2.0.4228",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4228.zip",
-                    "build": 204228
-                },
-                {
-                    "version": "2.0.4239",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4239.zip",
-                    "build": 204239
-                },
-                {
-                    "version": "2.0.4244",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4244.zip",
-                    "build": 204244
-                },
-                {
-                    "version": "2.0.4253",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4253.zip",
-                    "build": 204253
-                },
-                {
-                    "version": "2.0.4258",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4258.zip",
-                    "build": 204258
-                },
-                {
-                    "version": "2.0.4262",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4262.zip",
-                    "build": 204262
-                },
-                {
-                    "version": "2.0.4268",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4268.zip",
-                    "build": 204268
-                },
-                {
-                    "version": "2.0.4289",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4289.zip",
-                    "build": 204289
-                },
-                {
-                    "version": "2.0.4300",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4300.zip",
-                    "build": 204300
-                },
-                {
-                    "version": "2.0.4315",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4315.zip",
-                    "build": 204315
-                },
-                {
-                    "version": "2.0.4339",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4339.zip",
-                    "build": 204340
-                },
-                {
-                    "version": "2.0.4356",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4356.zip",
-                    "build": 204356
-                },
-                {
-                    "version": "2.0.4361",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4361.zip",
-                    "build": 204361
-                },
-                {
-                    "version": "2.0.4364",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4364.zip",
-                    "build": 204364
-                },
-                {
-                    "version": "2.0.4374",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4374.zip",
-                    "build": 204374
-                },
-                {
-                    "version": "2.0.4379",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4379.zip",
-                    "build": 204380
-                },
-                {
-                    "version": "2.0.4383",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4383.zip",
-                    "build": 204383
-                },
-                {
-                    "version": "2.0.4389",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4389.zip",
-                    "build": 204389
-                },
-                {
-                    "version": "2.0.4417",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4417.zip",
-                    "build": 204417
-                },
-                {
-                    "version": "2.0.4428",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4428.zip",
-                    "build": 204428
-                },
-                {
-                    "version": "2.0.4462",
-                    "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4462.zip",
-                    "build": 204462
-                },
-                {
-                    "version": "2.0.4487",
-                    "url": "https://mcph.gdn/rust/oxide/2.0.4482.zip",
-                    "build": 204487
-                },
-                {
-                    "version": "2.0.4495",
-                    "url": "https://mcph.gdn/rust/oxide/2.0.4495.zip",
-                    "build": 204495
-                }
-            ]
+            "version": "2.0.3681",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3681.zip",
+            "build": 203681
+        },
+        {
+            "version": "2.0.3393",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3393.zip",
+            "build": 203393
+        },
+        {
+            "version": "2.0.1939",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.1939.zip",
+            "build": 201939
+        },
+        {
+            "version": "2.0.3423",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3423.zip",
+            "build": 203423
+        },
+        {
+            "version": "2.0.3434",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3434.zip",
+            "build": 203434
+        },
+        {
+            "version": "2.0.3467",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3467.zip",
+            "build": 203467
+        },
+        {
+            "version": "2.0.3487",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3487.zip",
+            "build": 203487
+        },
+        {
+            "version": "2.0.3702",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3702.zip",
+            "build": 203702
+        },
+        {
+            "version": "2.0.3767",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3767.zip",
+            "build": 203702
+        },
+        {
+            "version": "2.0.3804",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3804.zip",
+            "build": 203804
+        },
+        {
+            "version": "2.0.3855",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3855.zip",
+            "build": 203855
+        },
+        {
+            "version": "2.0.3887",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3887.zip",
+            "build": 203855
+        },
+        {
+            "version": "2.0.3965",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.3965.zip",
+            "build": 203695
+        },
+        {
+            "version": "2.0.4025",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4025.zip",
+            "build": 204025
+        },
+        {
+            "version": "2.0.4048",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4048.zip",
+            "build": 204048
+        },
+        {
+            "version": "2.0.4059",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4059.zip",
+            "build": 204059
+        },
+        {
+            "version": "2.0.4068",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4068.zip",
+            "build": 204068
+        },
+        {
+            "version": "2.0.4072",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4072.zip",
+            "build": 204072
+        },
+        {
+            "version": "2.0.4079",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4079.zip",
+            "build": 204079
+        },
+        {
+            "version": "2.0.4083",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4083.zip",
+            "build": 204083
+        },
+        {
+            "version": "2.0.4086",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4086.zip",
+            "build": 204086
+        },
+        {
+            "version": "2.0.4094",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4094.zip",
+            "build": 204094
+        },
+        {
+            "version": "2.0.4098",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4098.zip",
+            "build": 204098
+        },
+        {
+            "version": "2.0.4099",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4099.zip",
+            "build": 204099
+        },
+        {
+            "version": "2.0.4100",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4100.zip",
+            "build": 204100
+        },
+        {
+            "version": "2.0.4103",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4103.zip",
+            "build": 204103
+        },
+        {
+            "version": "2.0.4131",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4131.zip",
+            "build": 204131
+        },
+        {
+            "version": "2.0.4139",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4139.zip",
+            "build": 204139
+        },
+        {
+            "version": "2.0.4160",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4160.zip",
+            "build": 204160
+        },
+        {
+            "version": "2.0.4161",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4161.zip",
+            "build": 204161
+        },
+        {
+            "version": "2.0.4178",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4178.zip",
+            "build": 204178
+        },
+        {
+            "version": "2.0.4185",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4185.zip",
+            "build": 204185
+        },
+        {
+            "version": "2.0.4190",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4190.zip",
+            "build": 204190
+        },
+        {
+            "version": "2.0.4200",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4200.zip",
+            "build": 204200
+        },
+        {
+            "version": "2.0.4203",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4203.zip",
+            "build": 204203
+        },
+        {
+            "version": "2.0.4228",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4228.zip",
+            "build": 204228
+        },
+        {
+            "version": "2.0.4239",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4239.zip",
+            "build": 204239
+        },
+        {
+            "version": "2.0.4244",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4244.zip",
+            "build": 204244
+        },
+        {
+            "version": "2.0.4253",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4253.zip",
+            "build": 204253
+        },
+        {
+            "version": "2.0.4258",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4258.zip",
+            "build": 204258
+        },
+        {
+            "version": "2.0.4262",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4262.zip",
+            "build": 204262
+        },
+        {
+            "version": "2.0.4268",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4268.zip",
+            "build": 204268
+        },
+        {
+            "version": "2.0.4289",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4289.zip",
+            "build": 204289
+        },
+        {
+            "version": "2.0.4300",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4300.zip",
+            "build": 204300
+        },
+        {
+            "version": "2.0.4315",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4315.zip",
+            "build": 204315
+        },
+        {
+            "version": "2.0.4339",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4339.zip",
+            "build": 204340
+        },
+        {
+            "version": "2.0.4356",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4356.zip",
+            "build": 204356
+        },
+        {
+            "version": "2.0.4361",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4361.zip",
+            "build": 204361
+        },
+        {
+            "version": "2.0.4364",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4364.zip",
+            "build": 204364
+        },
+        {
+            "version": "2.0.4374",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4374.zip",
+            "build": 204374
+        },
+        {
+            "version": "2.0.4379",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4379.zip",
+            "build": 204380
+        },
+        {
+            "version": "2.0.4383",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4383.zip",
+            "build": 204383
+        },
+        {
+            "version": "2.0.4389",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4389.zip",
+            "build": 204389
+        },
+        {
+            "version": "2.0.4417",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4417.zip",
+            "build": 204417
+        },
+        {
+            "version": "2.0.4428",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4428.zip",
+            "build": 204428
+        },
+        {
+            "version": "2.0.4462",
+            "url": "https://s3.amazonaws.com/MCProHosting-Misc/Rust/Oxide-Rust-2.0.4462.zip",
+            "build": 204462
+        },
+        {
+            "version": "2.0.4487",
+            "url": "https://mcph.gdn/rust/oxide/2.0.4482.zip",
+            "build": 204487
+        },
+        {
+            "version": "2.0.4495",
+            "url": "https://mcph.gdn/rust/oxide/2.0.4495.zip",
+            "build": 204495
+        },
+        {
+            "version": "2.0.4498",
+            "url": "https://mcph.gdn/rust/oxide/2.0.4498.zip",
+            "build": 204498
         }
     ]
 }
