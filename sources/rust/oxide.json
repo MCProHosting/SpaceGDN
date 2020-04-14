@@ -383,6 +383,11 @@
                     "version": "2.0.4552",
                     "url": "https://mcph.gdn/rust/oxide/2.0.4552.zip",
                     "build": 204552
+                },
+                {
+                    "version": "2.0.4554",
+                    "url": "https://mcph.gdn/rust/oxide/2.0.4554.zip",
+                    "build": 204554
                 }
             ]
         }
