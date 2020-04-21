@@ -398,6 +398,11 @@
                     "version": "null",
                     "url": "https://mcph.gdn/rust/oxide/null.zip",
                     "build": null
+                },
+                {
+                    "version": "2.0.4556",
+                    "url": "https://mcph.gdn/rust/oxide/2.0.4556.zip",
+                    "build": 204556
                 }
             ]
         }
